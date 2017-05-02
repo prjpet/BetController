@@ -1,0 +1,1870 @@
+1493540778285	geckodriver	INFO	Listening on 127.0.0.1:41822
+1493543745227	geckodriver	INFO	Listening on 127.0.0.1:55420
+1493544361041	geckodriver	INFO	Listening on 127.0.0.1:39208
+1493544362101	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493544363054	Marionette	INFO	Listening on port 38306
+1493544363182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493544557587	geckodriver	INFO	Listening on 127.0.0.1:53437
+1493544558646	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493544559616	Marionette	INFO	Listening on port 33125
+1493544559753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493544671757	geckodriver	INFO	Listening on 127.0.0.1:36580
+1493544672842	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493544673814	Marionette	INFO	Listening on port 33770
+1493544673952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493544834342	geckodriver	INFO	Listening on 127.0.0.1:43664
+1493544835391	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493544836602	Marionette	INFO	Listening on port 43978
+1493544836741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://selenium-ide/content/selenium-ide-overlay.js, line 274: ReferenceError: Application is not defined
+JavaScript warning: chrome://selenium-ide/content/selenium-core/scripts/htmlutils.js, line 6182: unreachable code after return statement
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493545176784	geckodriver	INFO	Listening on 127.0.0.1:46930
+1493545177838	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493545178735	Marionette	INFO	Listening on port 33145
+1493545178851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493545182033	Marionette	INFO	New connections will no longer be accepted
+1493546367955	geckodriver	INFO	Listening on 127.0.0.1:55065
+1493546369025	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493546369996	Marionette	INFO	Listening on port 40831
+1493546370128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493546373054	Marionette	INFO	New connections will no longer be accepted
+1493546570058	geckodriver	INFO	Listening on 127.0.0.1:32792
+1493546571117	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493546572014	Marionette	INFO	Listening on port 39873
+1493546572128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493546577358	Marionette	INFO	New connections will no longer be accepted
+1493546589849	geckodriver	INFO	Listening on 127.0.0.1:41715
+1493546590950	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493546591961	Marionette	INFO	Listening on port 34364
+1493546592079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493546594958	Marionette	INFO	New connections will no longer be accepted
+1493546703280	geckodriver	INFO	Listening on 127.0.0.1:50316
+1493546704345	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493546705296	Marionette	INFO	Listening on port 37240
+1493546705425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493546707463	Marionette	INFO	New connections will no longer be accepted
+1493546762703	geckodriver	INFO	Listening on 127.0.0.1:44198
+1493546762756	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493546763735	Marionette	INFO	Listening on port 45651
+1493546763854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493546821253	geckodriver	INFO	Listening on 127.0.0.1:47472
+1493546822350	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493546823387	Marionette	INFO	Listening on port 36202
+1493546823521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493547002221	geckodriver	INFO	Listening on 127.0.0.1:55775
+1493547003292	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493547004270	Marionette	INFO	Listening on port 39093
+1493547004394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493547060463	geckodriver	INFO	Listening on 127.0.0.1:49833
+1493547061525	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493547062503	Marionette	INFO	Listening on port 36512
+1493547062632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493547108083	geckodriver	INFO	Listening on 127.0.0.1:57509
+1493547109168	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493547110190	Marionette	INFO	Listening on port 43852
+1493547110314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493547131743	geckodriver	INFO	Listening on 127.0.0.1:46380
+1493547132798	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493547133791	Marionette	INFO	Listening on port 38513
+1493547133911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493547159764	geckodriver	INFO	Listening on 127.0.0.1:38941
+1493547160862	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493547161971	Marionette	INFO	Listening on port 41369
+1493547162107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493547705074	geckodriver	INFO	Listening on 127.0.0.1:34627
+1493547706122	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493547707132	Marionette	INFO	Listening on port 46323
+1493547707268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493547966736	geckodriver	INFO	Listening on 127.0.0.1:49003
+1493547967799	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493547968772	Marionette	INFO	Listening on port 44415
+1493547968908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493548059330	geckodriver	INFO	Listening on 127.0.0.1:36308
+1493548060377	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493548061398	Marionette	INFO	Listening on port 37125
+1493548061541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493549094816	geckodriver	INFO	Listening on 127.0.0.1:37598
+1493549095892	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493549096825	Marionette	INFO	Listening on port 37137
+1493549096944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493549126413	geckodriver	INFO	Listening on 127.0.0.1:37172
+1493549127473	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493549128396	Marionette	INFO	Listening on port 38387
+1493549128514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493551984797	geckodriver	INFO	Listening on 127.0.0.1:60765
+1493551985879	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493551986899	Marionette	INFO	Listening on port 45999
+1493551987019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493552014669	geckodriver	INFO	Listening on 127.0.0.1:54539
+1493552015728	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493552016788	Marionette	INFO	Listening on port 38480
+1493552016914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493552178463	geckodriver	INFO	Listening on 127.0.0.1:47102
+1493552179507	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493552180521	Marionette	INFO	Listening on port 35446
+1493552180649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493552221634	geckodriver	INFO	Listening on 127.0.0.1:36628
+1493552222688	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493552223713	Marionette	INFO	Listening on port 36823
+1493552223849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493552242804	geckodriver	INFO	Listening on 127.0.0.1:52114
+1493552243866	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493552244866	Marionette	INFO	Listening on port 42769
+1493552244993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493553080148	geckodriver	INFO	Listening on 127.0.0.1:59988
+1493553081210	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493553082221	Marionette	INFO	Listening on port 37183
+1493553082345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493553123867	geckodriver	INFO	Listening on 127.0.0.1:37016
+1493553124917	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493553125864	Marionette	INFO	Listening on port 35196
+1493553125981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493553231016	geckodriver	INFO	Listening on 127.0.0.1:57067
+1493553232093	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493553233152	Marionette	INFO	Listening on port 43337
+1493553233269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493553275376	geckodriver	INFO	Listening on 127.0.0.1:44857
+1493553276435	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493553277464	Marionette	INFO	Listening on port 45021
+1493553277587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493553326918	geckodriver	INFO	Listening on 127.0.0.1:48830
+1493553327974	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493553328975	Marionette	INFO	Listening on port 45716
+1493553329094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493553410677	geckodriver	INFO	Listening on 127.0.0.1:49510
+1493553411726	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493553412676	Marionette	INFO	Listening on port 44493
+1493553412795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493553873972	geckodriver	INFO	Listening on 127.0.0.1:48058
+1493553875035	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493553875958	Marionette	INFO	Listening on port 37991
+1493553876082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493553948994	geckodriver	INFO	Listening on 127.0.0.1:41433
+1493553950064	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493553951061	Marionette	INFO	Listening on port 36165
+1493553951197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493553971449	geckodriver	INFO	Listening on 127.0.0.1:43647
+1493553972519	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493553973441	Marionette	INFO	Listening on port 41595
+1493553973558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493554102668	geckodriver	INFO	Listening on 127.0.0.1:48600
+1493554103726	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493554104664	Marionette	INFO	Listening on port 37323
+1493554104784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493554207487	geckodriver	INFO	Listening on 127.0.0.1:56643
+1493554208543	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493554209413	Marionette	INFO	Listening on port 41933
+1493554209528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493554493557	geckodriver	INFO	Listening on 127.0.0.1:57085
+1493554494631	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493554495657	Marionette	INFO	Listening on port 41761
+1493554495784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493554510954	geckodriver	INFO	Listening on 127.0.0.1:33114
+1493554512035	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493554513041	Marionette	INFO	Listening on port 43985
+1493554513175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493554537290	geckodriver	INFO	Listening on 127.0.0.1:35983
+1493554538343	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493554539323	Marionette	INFO	Listening on port 34655
+1493554539442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493554739732	geckodriver	INFO	Listening on 127.0.0.1:34283
+1493554740792	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493554741690	Marionette	INFO	Listening on port 35080
+1493554741803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493554787148	geckodriver	INFO	Listening on 127.0.0.1:54051
+1493554788217	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493554789197	Marionette	INFO	Listening on port 37209
+1493554789316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493556017629	geckodriver	INFO	Listening on 127.0.0.1:54137
+1493556018713	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493556019774	Marionette	INFO	Listening on port 36246
+1493556019906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493556285507	geckodriver	INFO	Listening on 127.0.0.1:45785
+1493556286576	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493556287574	Marionette	INFO	Listening on port 37714
+1493556287697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 45ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+stopResponsiveMode@resource://devtools/client/responsivedesign/responsivedesign-child.js:109:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+stopResponsiveMode@resource://devtools/client/responsivedesign/responsivedesign-child.js:109:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+stopResponsiveMode@resource://devtools/client/responsivedesign/responsivedesign-child.js:109:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+stopResponsiveMode@resource://devtools/client/responsivedesign/responsivedesign-child.js:109:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+stopResponsiveMode@resource://devtools/client/responsivedesign/responsivedesign-child.js:109:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+console.error: 
+  Message: TypeError: this.transport is null
+  Stack:
+    send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1465:5
+Actor<._sendEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:887:5
+Actor<.initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:865:11
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+MediaRuleActor<._matchesChange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:179:5
+
+1493556414301	geckodriver	INFO	Listening on 127.0.0.1:59452
+1493556415368	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493556416383	Marionette	INFO	Listening on port 33485
+1493556416513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493556492004	geckodriver	INFO	Listening on 127.0.0.1:34344
+1493556493070	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493556494046	Marionette	INFO	Listening on port 39004
+1493556494162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493556534215	geckodriver	INFO	Listening on 127.0.0.1:59398
+1493556535268	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493556536253	Marionette	INFO	Listening on port 38171
+1493556536376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493556765721	geckodriver	INFO	Listening on 127.0.0.1:43362
+1493556766795	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493556767770	Marionette	INFO	Listening on port 46552
+1493556767903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493556841865	geckodriver	INFO	Listening on 127.0.0.1:45078
+1493556842937	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493556843988	Marionette	INFO	Listening on port 35121
+1493556844118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493556874225	geckodriver	INFO	Listening on 127.0.0.1:56563
+1493556875303	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493556876352	Marionette	INFO	Listening on port 37470
+1493556876468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493557052571	geckodriver	INFO	Listening on 127.0.0.1:34534
+1493557053637	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493557054664	Marionette	INFO	Listening on port 43168
+1493557054799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493557154332	geckodriver	INFO	Listening on 127.0.0.1:55663
+1493557155420	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493557156454	Marionette	INFO	Listening on port 46783
+1493557156585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493557306229	geckodriver	INFO	Listening on 127.0.0.1:36665
+1493557307295	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493557308248	Marionette	INFO	Listening on port 39066
+1493557308366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493557371145	geckodriver	INFO	Listening on 127.0.0.1:41067
+1493557372221	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493557373283	Marionette	INFO	Listening on port 35786
+1493557373418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493557460244	geckodriver	INFO	Listening on 127.0.0.1:34545
+1493557461307	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493557462275	Marionette	INFO	Listening on port 33278
+1493557462406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493557514662	geckodriver	INFO	Listening on 127.0.0.1:52852
+1493557515726	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493557516641	Marionette	INFO	Listening on port 34091
+1493557516758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493557535870	geckodriver	INFO	Listening on 127.0.0.1:54961
+1493557536930	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493557537860	Marionette	INFO	Listening on port 45294
+1493557537988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1717:11
+LocalDebuggerTransport.prototype.send/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1717, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1717:11
+LocalDebuggerTransport.prototype.send/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1717, column: 11
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode160
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493557829909	geckodriver	INFO	Listening on 127.0.0.1:51843
+1493557830986	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493557831940	Marionette	INFO	Listening on port 34861
+1493557832059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493557976381	geckodriver	INFO	Listening on 127.0.0.1:33749
+1493557977439	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493557978357	Marionette	INFO	Listening on port 41623
+1493557978477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493558022470	geckodriver	INFO	Listening on 127.0.0.1:39510
+1493558023524	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493558024501	Marionette	INFO	Listening on port 36039
+1493558024622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493558071097	geckodriver	INFO	Listening on 127.0.0.1:40956
+1493558072149	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493558073137	Marionette	INFO	Listening on port 46508
+1493558073264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493558140014	geckodriver	INFO	Listening on 127.0.0.1:38608
+1493558141059	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493558141987	Marionette	INFO	Listening on port 35297
+1493558142108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493558222682	geckodriver	INFO	Listening on 127.0.0.1:48111
+1493558223744	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493558224679	Marionette	INFO	Listening on port 41465
+1493558224807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript error: resource://app/modules/URLBarZoom.jsm, line 24: TypeError: win is null
+1493558233878	geckodriver	INFO	Listening on 127.0.0.1:56852
+1493558234930	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493558235881	Marionette	INFO	Listening on port 40146
+1493558236000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493558352635	geckodriver	INFO	Listening on 127.0.0.1:57634
+1493558353681	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493558355397	Marionette	INFO	Listening on port 45053
+1493558355528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493558540438	geckodriver	INFO	Listening on 127.0.0.1:55094
+1493558541505	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493558542480	Marionette	INFO	Listening on port 44476
+1493558542601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493559606462	geckodriver	INFO	Listening on 127.0.0.1:45746
+1493559607508	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493559608450	Marionette	INFO	Listening on port 39352
+1493559608568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493560090600	geckodriver	INFO	Listening on 127.0.0.1:57852
+1493560091655	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493560092649	Marionette	INFO	Listening on port 39538
+1493560092771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493560160489	geckodriver	INFO	Listening on 127.0.0.1:33540
+1493560161535	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493560162555	Marionette	INFO	Listening on port 42784
+1493560162691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493560775918	geckodriver	INFO	Listening on 127.0.0.1:38647
+1493560776972	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493560777940	Marionette	INFO	Listening on port 39530
+1493560778066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: 
+  Message: Error: findCssSelector received element not inside document
+  Stack:
+    CssLogic.findCssSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/css-logic.js:737:11
+exports.NodeActor<.getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:625:12
+generateRequestHandlers/</handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1042:19
+onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1743:15
+ChildDebuggerTransport.prototype.receiveMessage@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:761:7
+
+CssLogic.findCssSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/css-logic.js:737:11
+exports.NodeActor<.getUniqueSelector@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:625:12
+generateRequestHandlers/</handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1042:19
+onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1743:15
+ChildDebuggerTransport.prototype.receiveMessage@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:761:7
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode112
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode113
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1717:11
+LocalDebuggerTransport.prototype.send/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1717, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1717:11
+LocalDebuggerTransport.prototype.send/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1717, column: 11
+1493561355147	geckodriver	INFO	Listening on 127.0.0.1:33509
+1493561356209	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493561357172	Marionette	INFO	Listening on port 46403
+1493561357296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493561391672	geckodriver	INFO	Listening on 127.0.0.1:45429
+1493561392730	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493561393729	Marionette	INFO	Listening on port 39427
+1493561393850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493561435397	geckodriver	INFO	Listening on 127.0.0.1:39761
+1493561436464	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493561437459	Marionette	INFO	Listening on port 45088
+1493561437585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493561630420	geckodriver	INFO	Listening on 127.0.0.1:52464
+1493561631488	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493561632527	Marionette	INFO	Listening on port 41423
+1493561632651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493561704750	geckodriver	INFO	Listening on 127.0.0.1:40216
+1493561705798	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493561706808	Marionette	INFO	Listening on port 45146
+1493561706938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493562279472	geckodriver	INFO	Listening on 127.0.0.1:51191
+1493562280518	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493562281576	Marionette	INFO	Listening on port 34660
+1493562281720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493563026250	geckodriver	INFO	Listening on 127.0.0.1:49308
+1493563027314	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493563028298	Marionette	INFO	Listening on port 45459
+1493563028430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493563112372	geckodriver	INFO	Listening on 127.0.0.1:38738
+1493563113438	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493563114466	Marionette	INFO	Listening on port 36112
+1493563114600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493563147834	geckodriver	INFO	Listening on 127.0.0.1:49524
+1493563148902	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493563149914	Marionette	INFO	Listening on port 40196
+1493563150045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493563321504	geckodriver	INFO	Listening on 127.0.0.1:55839
+1493563322551	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493563323581	Marionette	INFO	Listening on port 42217
+1493563323715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493563367477	geckodriver	INFO	Listening on 127.0.0.1:59255
+1493563368529	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493563369554	Marionette	INFO	Listening on port 32860
+1493563369683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493563752165	geckodriver	INFO	Listening on 127.0.0.1:41136
+1493563753237	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493563754293	Marionette	INFO	Listening on port 42715
+1493563754429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493563844721	geckodriver	INFO	Listening on 127.0.0.1:54434
+1493563845790	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493563846872	Marionette	INFO	Listening on port 40444
+1493563847012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493563919970	geckodriver	INFO	Listening on 127.0.0.1:33556
+1493563921038	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493563922065	Marionette	INFO	Listening on port 36982
+1493563922189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493564146871	geckodriver	INFO	Listening on 127.0.0.1:48938
+1493564147953	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493564148949	Marionette	INFO	Listening on port 38282
+1493564149072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493564898444	geckodriver	INFO	Listening on 127.0.0.1:48469
+1493564899510	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493564900533	Marionette	INFO	Listening on port 44057
+1493564900686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493564938681	geckodriver	INFO	Listening on 127.0.0.1:60899
+1493564939738	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493564940759	Marionette	INFO	Listening on port 40177
+1493564940892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493565176126	geckodriver	INFO	Listening on 127.0.0.1:49645
+1493565177193	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493565178168	Marionette	INFO	Listening on port 38279
+1493565178291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493565220599	geckodriver	INFO	Listening on 127.0.0.1:44456
+1493565221650	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493565222600	Marionette	INFO	Listening on port 35909
+1493565222735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493565577827	geckodriver	INFO	Listening on 127.0.0.1:43274
+1493565578891	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493565579914	Marionette	INFO	Listening on port 44603
+1493565580051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493565605146	geckodriver	INFO	Listening on 127.0.0.1:42019
+1493565606218	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493565607298	Marionette	INFO	Listening on port 39846
+1493565607434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493565728371	geckodriver	INFO	Listening on 127.0.0.1:57002
+1493565729429	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493565730477	Marionette	INFO	Listening on port 38976
+1493565730599	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493565796120	geckodriver	INFO	Listening on 127.0.0.1:47662
+1493565797185	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493565798160	Marionette	INFO	Listening on port 40270
+1493565798285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493566414587	geckodriver	INFO	Listening on 127.0.0.1:35221
+1493566415652	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493566416757	Marionette	INFO	Listening on port 40422
+1493566416899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493566494956	geckodriver	INFO	Listening on 127.0.0.1:50746
+1493566496032	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493566497050	Marionette	INFO	Listening on port 34222
+1493566497182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493566538545	geckodriver	INFO	Listening on 127.0.0.1:38131
+1493566539599	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493566540566	Marionette	INFO	Listening on port 35114
+1493566540706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493566587750	geckodriver	INFO	Listening on 127.0.0.1:44932
+1493566588796	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493566589787	Marionette	INFO	Listening on port 38546
+1493566589933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493566746107	geckodriver	INFO	Listening on 127.0.0.1:57486
+1493566747169	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493566748190	Marionette	INFO	Listening on port 40762
+1493566748324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493566852968	geckodriver	INFO	Listening on 127.0.0.1:52547
+1493566854032	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493566855102	Marionette	INFO	Listening on port 35468
+1493566855233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493566964694	geckodriver	INFO	Listening on 127.0.0.1:50671
+1493566965755	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493566966849	Marionette	INFO	Listening on port 41040
+1493566966979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493570156865	geckodriver	INFO	Listening on 127.0.0.1:56115
+1493570157916	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493570158965	Marionette	INFO	Listening on port 33867
+1493570159106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493570310947	geckodriver	INFO	Listening on 127.0.0.1:58940
+1493570312019	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493570313008	Marionette	INFO	Listening on port 41725
+1493570313143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493570545334	geckodriver	INFO	Listening on 127.0.0.1:37174
+1493570546403	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493570547501	Marionette	INFO	Listening on port 40162
+1493570547644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493570641811	geckodriver	INFO	Listening on 127.0.0.1:51277
+1493570642859	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493570643902	Marionette	INFO	Listening on port 41913
+1493570644040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493570973876	geckodriver	INFO	Listening on 127.0.0.1:52355
+1493570974935	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493570975912	Marionette	INFO	Listening on port 40387
+1493570976055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493571037153	geckodriver	INFO	Listening on 127.0.0.1:49650
+1493571038216	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493571039256	Marionette	INFO	Listening on port 36661
+1493571039390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493571115907	geckodriver	INFO	Listening on 127.0.0.1:40136
+1493571116975	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493571118053	Marionette	INFO	Listening on port 46880
+1493571118198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493571188670	geckodriver	INFO	Listening on 127.0.0.1:45476
+1493571189723	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493571190742	Marionette	INFO	Listening on port 41761
+1493571190877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493571284772	geckodriver	INFO	Listening on 127.0.0.1:46683
+1493571285827	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493571286818	Marionette	INFO	Listening on port 38165
+1493571286962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493571347358	geckodriver	INFO	Listening on 127.0.0.1:58718
+1493571348422	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493571349440	Marionette	INFO	Listening on port 35754
+1493571349567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493571381168	geckodriver	INFO	Listening on 127.0.0.1:36024
+1493571382240	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493571383271	Marionette	INFO	Listening on port 36957
+1493571383407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493571553313	geckodriver	INFO	Listening on 127.0.0.1:40455
+1493571554395	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493571555385	Marionette	INFO	Listening on port 46422
+1493571555530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493571754976	geckodriver	INFO	Listening on 127.0.0.1:40423
+1493571756024	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493571757086	Marionette	INFO	Listening on port 46427
+1493571757227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493571849595	geckodriver	INFO	Listening on 127.0.0.1:45029
+1493571850650	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493571851680	Marionette	INFO	Listening on port 40824
+1493571851810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572150883	geckodriver	INFO	Listening on 127.0.0.1:41701
+1493572151950	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572153045	Marionette	INFO	Listening on port 34212
+1493572153181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572260493	geckodriver	INFO	Listening on 127.0.0.1:38449
+1493572261551	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572262546	Marionette	INFO	Listening on port 38053
+1493572262676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572294727	geckodriver	INFO	Listening on 127.0.0.1:56987
+1493572295780	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572296839	Marionette	INFO	Listening on port 41584
+1493572296978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572373706	geckodriver	INFO	Listening on 127.0.0.1:58471
+1493572374764	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572375733	Marionette	INFO	Listening on port 35736
+1493572375858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572459115	geckodriver	INFO	Listening on 127.0.0.1:49530
+1493572460169	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572461238	Marionette	INFO	Listening on port 44942
+1493572461371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572491263	geckodriver	INFO	Listening on 127.0.0.1:38240
+1493572492334	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572493439	Marionette	INFO	Listening on port 33592
+1493572493572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572557635	geckodriver	INFO	Listening on 127.0.0.1:40459
+1493572558701	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572559795	Marionette	INFO	Listening on port 37470
+1493572559947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572610322	geckodriver	INFO	Listening on 127.0.0.1:60470
+1493572611375	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572612430	Marionette	INFO	Listening on port 38625
+1493572612577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493572648006	geckodriver	INFO	Listening on 127.0.0.1:56822
+1493572649064	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572650076	Marionette	INFO	Listening on port 38859
+1493572650219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572819619	geckodriver	INFO	Listening on 127.0.0.1:48332
+1493572820681	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572821664	Marionette	INFO	Listening on port 33790
+1493572821802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572890754	geckodriver	INFO	Listening on 127.0.0.1:39776
+1493572891822	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572892792	Marionette	INFO	Listening on port 38617
+1493572892934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493572965385	geckodriver	INFO	Listening on 127.0.0.1:40114
+1493572966431	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493572967495	Marionette	INFO	Listening on port 35737
+1493572967638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493573002566	geckodriver	INFO	Listening on 127.0.0.1:33599
+1493573003633	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573004667	Marionette	INFO	Listening on port 38423
+1493573004812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493573164117	geckodriver	INFO	Listening on 127.0.0.1:41375
+1493573165189	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573166261	Marionette	INFO	Listening on port 42647
+1493573166393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493573193185	geckodriver	INFO	Listening on 127.0.0.1:51092
+1493573194249	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573195327	Marionette	INFO	Listening on port 34277
+1493573195462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493573303945	geckodriver	INFO	Listening on 127.0.0.1:34044
+1493573305002	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573306059	Marionette	INFO	Listening on port 38536
+1493573306210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493573367597	geckodriver	INFO	Listening on 127.0.0.1:35051
+1493573368665	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573369724	Marionette	INFO	Listening on port 46822
+1493573369862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493573404920	geckodriver	INFO	Listening on 127.0.0.1:56059
+1493573405979	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573406991	Marionette	INFO	Listening on port 38707
+1493573407119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493573473938	geckodriver	INFO	Listening on 127.0.0.1:48999
+1493573475000	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573476047	Marionette	INFO	Listening on port 39199
+1493573476199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493573758746	geckodriver	INFO	Listening on 127.0.0.1:50813
+1493573759796	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573760775	Marionette	INFO	Listening on port 44620
+1493573760899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493573918549	geckodriver	INFO	Listening on 127.0.0.1:58990
+1493573919610	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573920707	Marionette	INFO	Listening on port 45098
+1493573920858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493573978318	geckodriver	INFO	Listening on 127.0.0.1:37129
+1493573979374	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493573980428	Marionette	INFO	Listening on port 41483
+1493573980566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493574006263	geckodriver	INFO	Listening on 127.0.0.1:52189
+1493574007336	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493574008388	Marionette	INFO	Listening on port 33531
+1493574008517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493574328285	geckodriver	INFO	Listening on 127.0.0.1:54503
+1493574329337	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493574330384	Marionette	INFO	Listening on port 44733
+1493574330543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493574404250	geckodriver	INFO	Listening on 127.0.0.1:39757
+1493574405307	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493574406337	Marionette	INFO	Listening on port 39042
+1493574406481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493574443533	geckodriver	INFO	Listening on 127.0.0.1:48765
+1493574444597	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493574445630	Marionette	INFO	Listening on port 43105
+1493574445758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493574512102	geckodriver	INFO	Listening on 127.0.0.1:32771
+1493574513168	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493574514228	Marionette	INFO	Listening on port 35379
+1493574514359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493574579448	geckodriver	INFO	Listening on 127.0.0.1:48918
+1493574580497	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493574581624	Marionette	INFO	Listening on port 35132
+1493574581770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493574658900	geckodriver	INFO	Listening on 127.0.0.1:48432
+1493574659952	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493574660902	Marionette	INFO	Listening on port 41345
+1493574661037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493574783104	geckodriver	INFO	Listening on 127.0.0.1:39911
+1493574784173	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493574785211	Marionette	INFO	Listening on port 44252
+1493574785339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493574980161	geckodriver	INFO	Listening on 127.0.0.1:44544
+1493574981237	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493574982256	Marionette	INFO	Listening on port 42323
+1493574982386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493575055899	geckodriver	INFO	Listening on 127.0.0.1:49322
+1493575056967	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493575057990	Marionette	INFO	Listening on port 46021
+1493575058121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493575129105	geckodriver	INFO	Listening on 127.0.0.1:38066
+1493575130170	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493575131171	Marionette	INFO	Listening on port 42667
+1493575131310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493575154921	geckodriver	INFO	Listening on 127.0.0.1:56561
+1493575155993	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493575157059	Marionette	INFO	Listening on port 43101
+1493575157206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493575187618	geckodriver	INFO	Listening on 127.0.0.1:55658
+1493575188671	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493575189749	Marionette	INFO	Listening on port 39898
+1493575189877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493575714489	geckodriver	INFO	Listening on 127.0.0.1:43583
+1493575715545	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493575716537	Marionette	INFO	Listening on port 33919
+1493575716661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493575773258	geckodriver	INFO	Listening on 127.0.0.1:37611
+1493575774323	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493575775338	Marionette	INFO	Listening on port 41534
+1493575775471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493575811919	geckodriver	INFO	Listening on 127.0.0.1:53096
+1493575812965	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493575813930	Marionette	INFO	Listening on port 37538
+1493575814063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493576411876	geckodriver	INFO	Listening on 127.0.0.1:42546
+1493576412936	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493576414064	Marionette	INFO	Listening on port 43412
+1493576414245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493577096978	geckodriver	INFO	Listening on 127.0.0.1:57347
+1493577098047	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493577099066	Marionette	INFO	Listening on port 36595
+1493577099197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493577277214	geckodriver	INFO	Listening on 127.0.0.1:52381
+1493577278258	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493577279207	Marionette	INFO	Listening on port 38714
+1493577279358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493577533832	geckodriver	INFO	Listening on 127.0.0.1:37861
+1493577534895	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493577535965	Marionette	INFO	Listening on port 37402
+1493577536113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493578454914	geckodriver	INFO	Listening on 127.0.0.1:58030
+1493578455976	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493578457024	Marionette	INFO	Listening on port 41056
+1493578457162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493578520436	geckodriver	INFO	Listening on 127.0.0.1:46306
+1493578521483	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493578522525	Marionette	INFO	Listening on port 40534
+1493578522653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493578837750	geckodriver	INFO	Listening on 127.0.0.1:46811
+1493578838794	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493578839779	Marionette	INFO	Listening on port 42349
+1493578839917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493578874402	geckodriver	INFO	Listening on 127.0.0.1:39012
+1493578875456	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493578876475	Marionette	INFO	Listening on port 45069
+1493578876607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493579134670	geckodriver	INFO	Listening on 127.0.0.1:50271
+1493579135726	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+Assertion failure: mVsyncThread->Start() (GFX: Could not start software vsync thread), at /home/abuild/rpmbuild/BUILD/mozilla/gfx/thebes/SoftwareVsyncSource.cpp:34
+#01: ???[/usr/lib64/firefox/libxul.so +0x1128933]
+#02: ???[/usr/lib64/firefox/libxul.so +0x112cad8]
+#03: ???[/usr/lib64/firefox/libxul.so +0x112a9b8]
+#04: ???[/usr/lib64/firefox/libxul.so +0x112aaa4]
+#05: ???[/usr/lib64/firefox/libxul.so +0x1c68670]
+#06: NS_InvokeByIndex[/usr/lib64/firefox/libxul.so +0x9f58b9]
+#07: ???[/usr/lib64/firefox/libxul.so +0xebfb96]
+#08: ???[/usr/lib64/firefox/libxul.so +0xec6226]
+#09: ???[/usr/lib64/firefox/libxul.so +0x2b70578]
+#10: ???[/usr/lib64/firefox/libxul.so +0x2b70798]
+#11: ???[/usr/lib64/firefox/libxul.so +0x2b7083b]
+#12: ???[/usr/lib64/firefox/libxul.so +0x2b708f2]
+#13: ???[/usr/lib64/firefox/libxul.so +0x2b70b86]
+#14: ???[/usr/lib64/firefox/libxul.so +0x27ad3cd]
+#15: ???[/usr/lib64/firefox/libxul.so +0x2b6d071]
+#16: ???[/usr/lib64/firefox/libxul.so +0x2b702f8]
+#17: ???[/usr/lib64/firefox/libxul.so +0x2b704e6]
+#18: ???[/usr/lib64/firefox/libxul.so +0x2b70798]
+#19: ???[/usr/lib64/firefox/libxul.so +0x2b7083b]
+#20: ???[/usr/lib64/firefox/libxul.so +0x2b708f2]
+#21: ???[/usr/lib64/firefox/libxul.so +0x2b70b86]
+#22: ???[/usr/lib64/firefox/libxul.so +0x2aae9cf]
+#23: ???[/usr/lib64/firefox/libxul.so +0x2aa8eb2]
+#24: ???[/usr/lib64/firefox/libxul.so +0x2aa4459]
+#25: ???[/usr/lib64/firefox/libxul.so +0x2b7218c]
+#26: ???[/usr/lib64/firefox/libxul.so +0x2b63200]
+#27: ???[/usr/lib64/firefox/libxul.so +0x2b702f8]
+#28: ???[/usr/lib64/firefox/libxul.so +0x2b704e6]
+#29: ???[/usr/lib64/firefox/libxul.so +0x2b70798]
+#30: ???[/usr/lib64/firefox/libxul.so +0x2a1d98b]
+#31: ???[/usr/lib64/firefox/libxul.so +0xec4a15]
+#32: ???[/usr/lib64/firefox/libxul.so +0x9f643a]
+#33: ???[/usr/lib64/firefox/libxul.so +0x9f59c9]
+1493579154094	geckodriver	INFO	Listening on 127.0.0.1:51970
+1493579155145	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493579209082	geckodriver	INFO	Listening on 127.0.0.1:52141
+1493579210138	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493579210391	addons.manager	ERROR	Exception loading default provider "resource://gre/modules/addons/XPIProvider.jsm": [Exception... "Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]"  nsresult: "0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: <TOP_LEVEL> :: line 1805"  data: no] Stack trace: resource://gre/modules/addons/XPIProvider.jsm:1805 < AddonManagerInternal.startup()@resource://gre/modules/AddonManager.jsm:929 < this.AddonManagerPrivate.startup()@resource://gre/modules/AddonManager.jsm:3033 < amManager.prototype.observe()@resource://gre/components/addonManager.js:65
+Assertion failure: ((bool)(__builtin_expect(!!(!NS_FAILED_impl(rv)), 1))) && thread (Should successfully create image decoding threads), at /home/abuild/rpmbuild/BUILD/mozilla/image/DecodePool.cpp:255
+#01: ???[/usr/lib64/firefox/libxul.so +0x119b4de]
+#02: ???[/usr/lib64/firefox/libxul.so +0x9e061c]
+#03: ???[/usr/lib64/firefox/libxul.so +0x9e170d]
+#04: ???[/usr/lib64/firefox/libxul.so +0x9e1d47]
+#05: ???[/usr/lib64/firefox/libxul.so +0x9e30cd]
+#06: ???[/usr/lib64/firefox/libxul.so +0xa05148]
+#07: ???[/usr/lib64/firefox/libxul.so +0x9fea73]
+#08: ???[/usr/lib64/firefox/libxul.so +0x112a93d]
+#09: ???[/usr/lib64/firefox/libxul.so +0x112aaa4]
+#10: ???[/usr/lib64/firefox/libxul.so +0x1c68670]
+#11: NS_InvokeByIndex[/usr/lib64/firefox/libxul.so +0x9f58b9]
+#12: ???[/usr/lib64/firefox/libxul.so +0xebfb96]
+#13: ???[/usr/lib64/firefox/libxul.so +0xec6226]
+#14: ???[/usr/lib64/firefox/libxul.so +0x2b70578]
+#15: ???[/usr/lib64/firefox/libxul.so +0x2b70798]
+#16: ???[/usr/lib64/firefox/libxul.so +0x2b7083b]
+#17: ???[/usr/lib64/firefox/libxul.so +0x2b708f2]
+#18: ???[/usr/lib64/firefox/libxul.so +0x2b70b86]
+#19: ???[/usr/lib64/firefox/libxul.so +0x27ad3cd]
+#20: ???[/usr/lib64/firefox/libxul.so +0x2b6d071]
+#21: ???[/usr/lib64/firefox/libxul.so +0x2b702f8]
+#22: ???[/usr/lib64/firefox/libxul.so +0x2b704e6]
+#23: ???[/usr/lib64/firefox/libxul.so +0x2b70798]
+#24: ???[/usr/lib64/firefox/libxul.so +0x2b7083b]
+#25: ???[/usr/lib64/firefox/libxul.so +0x2b708f2]
+#26: ???[/usr/lib64/firefox/libxul.so +0x2b70b86]
+#27: ???[/usr/lib64/firefox/libxul.so +0x2aae9cf]
+#28: ???[/usr/lib64/firefox/libxul.so +0x2aa8eb2]
+#29: ???[/usr/lib64/firefox/libxul.so +0x2aa4459]
+#30: ???[/usr/lib64/firefox/libxul.so +0x2b7218c]
+#31: ???[/usr/lib64/firefox/libxul.so +0x2b63200]
+#32: ???[/usr/lib64/firefox/libxul.so +0x2b702f8]
+#33: ???[/usr/lib64/firefox/libxul.so +0x2b704e6]
+#34: ???[/usr/lib64/firefox/libxul.so +0x2b70798]
+#35: ???[/usr/lib64/firefox/libxul.so +0x2a1d98b]
+#36: ???[/usr/lib64/firefox/libxul.so +0xec4a15]
+#37: ???[/usr/lib64/firefox/libxul.so +0x9f643a]
+#38: ???[/usr/lib64/firefox/libxul.so +0x9f59c9]
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493579233506	geckodriver	INFO	Listening on 127.0.0.1:48541
+1493579234568	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+Assertion failure: ((bool)(__builtin_expect(!!(!NS_FAILED_impl(rv)), 1))) && thread (Should successfully create image decoding threads), at /home/abuild/rpmbuild/BUILD/mozilla/image/DecodePool.cpp:255
+#01: ???[/usr/lib64/firefox/libxul.so +0x119b4de]
+#02: ???[/usr/lib64/firefox/libxul.so +0x9e061c]
+#03: ???[/usr/lib64/firefox/libxul.so +0x9e170d]
+#04: ???[/usr/lib64/firefox/libxul.so +0x9e1d47]
+#05: ???[/usr/lib64/firefox/libxul.so +0x9e30cd]
+#06: ???[/usr/lib64/firefox/libxul.so +0xa05148]
+#07: ???[/usr/lib64/firefox/libxul.so +0x9fea73]
+#08: ???[/usr/lib64/firefox/libxul.so +0x112a93d]
+#09: ???[/usr/lib64/firefox/libxul.so +0x112aaa4]
+#10: ???[/usr/lib64/firefox/libxul.so +0x1c68670]
+#11: NS_InvokeByIndex[/usr/lib64/firefox/libxul.so +0x9f58b9]
+#12: ???[/usr/lib64/firefox/libxul.so +0xebfb96]
+#13: ???[/usr/lib64/firefox/libxul.so +0xec6226]
+#14: ???[/usr/lib64/firefox/libxul.so +0x2b70578]
+#15: ???[/usr/lib64/firefox/libxul.so +0x2b70798]
+#16: ???[/usr/lib64/firefox/libxul.so +0x2b7083b]
+#17: ???[/usr/lib64/firefox/libxul.so +0x2b708f2]
+#18: ???[/usr/lib64/firefox/libxul.so +0x2b70b86]
+#19: ???[/usr/lib64/firefox/libxul.so +0x27ad3cd]
+#20: ???[/usr/lib64/firefox/libxul.so +0x2b6d071]
+#21: ???[/usr/lib64/firefox/libxul.so +0x2b702f8]
+#22: ???[/usr/lib64/firefox/libxul.so +0x2b704e6]
+#23: ???[/usr/lib64/firefox/libxul.so +0x2b70798]
+#24: ???[/usr/lib64/firefox/libxul.so +0x2b7083b]
+#25: ???[/usr/lib64/firefox/libxul.so +0x2b708f2]
+#26: ???[/usr/lib64/firefox/libxul.so +0x2b70b86]
+#27: ???[/usr/lib64/firefox/libxul.so +0x2aae9cf]
+#28: ???[/usr/lib64/firefox/libxul.so +0x2aa8eb2]
+#29: ???[/usr/lib64/firefox/libxul.so +0x2aa4459]
+#30: ???[/usr/lib64/firefox/libxul.so +0x2b7218c]
+#31: ???[/usr/lib64/firefox/libxul.so +0x2b63200]
+#32: ???[/usr/lib64/firefox/libxul.so +0x2b702f8]
+#33: ???[/usr/lib64/firefox/libxul.so +0x2b704e6]
+#34: ???[/usr/lib64/firefox/libxul.so +0x2b70798]
+#35: ???[/usr/lib64/firefox/libxul.so +0x2a1d98b]
+#36: ???[/usr/lib64/firefox/libxul.so +0xec4a15]
+#37: ???[/usr/lib64/firefox/libxul.so +0x9f643a]
+#38: ???[/usr/lib64/firefox/libxul.so +0x9f59c9]
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493660990193	geckodriver	INFO	Listening on 127.0.0.1:39651
+1493660991260	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493660992321	Marionette	INFO	Listening on port 36266
+1493660992463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493661132938	geckodriver	INFO	Listening on 127.0.0.1:39265
+1493661134008	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493661134964	Marionette	INFO	Listening on port 46763
+1493661135082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493661184160	geckodriver	INFO	Listening on 127.0.0.1:50425
+1493661185250	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493661186230	Marionette	INFO	Listening on port 43246
+1493661186346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493672281216	geckodriver	INFO	Listening on 127.0.0.1:52551
+1493672282273	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493672283221	Marionette	INFO	Listening on port 37685
+1493672283340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493672300806	geckodriver	INFO	Listening on 127.0.0.1:38642
+1493672301875	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493672302866	Marionette	INFO	Listening on port 46260
+1493672303002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493673897726	geckodriver	INFO	Listening on 127.0.0.1:54878
+1493673898784	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493673899687	Marionette	INFO	Listening on port 44641
+1493673899815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493673921107	geckodriver	INFO	Listening on 127.0.0.1:35244
+1493673922177	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493673923281	Marionette	INFO	Listening on port 40586
+1493673923418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493673980489	geckodriver	INFO	Listening on 127.0.0.1:38744
+1493673981554	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493673982537	Marionette	INFO	Listening on port 32882
+1493673982678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493674193607	geckodriver	INFO	Listening on 127.0.0.1:35243
+1493674194664	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493674195647	Marionette	INFO	Listening on port 37985
+1493674195775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493674434975	geckodriver	INFO	Listening on 127.0.0.1:33110
+1493674436045	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493674437124	Marionette	INFO	Listening on port 32921
+1493674437246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493674483809	geckodriver	INFO	Listening on 127.0.0.1:42092
+1493674484889	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493674485954	Marionette	INFO	Listening on port 35976
+1493674486072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493674524876	geckodriver	INFO	Listening on 127.0.0.1:43335
+1493674525937	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493674526895	Marionette	INFO	Listening on port 43713
+1493674527016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493674571622	geckodriver	INFO	Listening on 127.0.0.1:57974
+1493674572683	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493674573674	Marionette	INFO	Listening on port 39960
+1493674573826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493674919489	geckodriver	INFO	Listening on 127.0.0.1:37431
+1493674920562	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493674921562	Marionette	INFO	Listening on port 33031
+1493674921692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493674967599	geckodriver	INFO	Listening on 127.0.0.1:34234
+1493674968657	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493674969680	Marionette	INFO	Listening on port 45270
+1493674969802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675524863	geckodriver	INFO	Listening on 127.0.0.1:50566
+1493675525923	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675526961	Marionette	INFO	Listening on port 34513
+1493675527107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675549768	geckodriver	INFO	Listening on 127.0.0.1:35715
+1493675550841	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675551876	Marionette	INFO	Listening on port 40542
+1493675551998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493675571120	geckodriver	INFO	Listening on 127.0.0.1:39243
+1493675572172	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675573189	Marionette	INFO	Listening on port 34805
+1493675573315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675667684	geckodriver	INFO	Listening on 127.0.0.1:59605
+1493675668740	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675669697	Marionette	INFO	Listening on port 40960
+1493675669838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675691268	geckodriver	INFO	Listening on 127.0.0.1:36026
+1493675692324	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675693296	Marionette	INFO	Listening on port 34303
+1493675693414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675728006	geckodriver	INFO	Listening on 127.0.0.1:44808
+1493675729085	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675730069	Marionette	INFO	Listening on port 42185
+1493675730192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675749406	geckodriver	INFO	Listening on 127.0.0.1:35891
+1493675750471	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675751446	Marionette	INFO	Listening on port 36116
+1493675751573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675802876	geckodriver	INFO	Listening on 127.0.0.1:41826
+1493675803934	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675805016	Marionette	INFO	Listening on port 40046
+1493675805143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675823200	geckodriver	INFO	Listening on 127.0.0.1:44301
+1493675824244	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675825224	Marionette	INFO	Listening on port 38208
+1493675825368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675949711	geckodriver	INFO	Listening on 127.0.0.1:43716
+1493675950783	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675951747	Marionette	INFO	Listening on port 40205
+1493675951876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675972096	geckodriver	INFO	Listening on 127.0.0.1:54216
+1493675973147	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493675974130	Marionette	INFO	Listening on port 46308
+1493675974256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493675999111	geckodriver	INFO	Listening on 127.0.0.1:38046
+1493676000155	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493676001084	Marionette	INFO	Listening on port 34043
+1493676001209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493676038497	geckodriver	INFO	Listening on 127.0.0.1:59935
+1493676039542	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493676040543	Marionette	INFO	Listening on port 42674
+1493676040663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493676086815	geckodriver	INFO	Listening on 127.0.0.1:34497
+1493676087889	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493676088876	Marionette	INFO	Listening on port 44183
+1493676088993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+1493676744890	geckodriver	INFO	Listening on 127.0.0.1:43653
+1493676745975	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493676747039	Marionette	INFO	Listening on port 40585
+1493676747164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493676783522	geckodriver	INFO	Listening on 127.0.0.1:37363
+1493676784590	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493676785626	Marionette	INFO	Listening on port 45843
+1493676785754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493676819432	geckodriver	INFO	Listening on 127.0.0.1:34294
+1493676820480	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493676821428	Marionette	INFO	Listening on port 46667
+1493676821544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493676870590	geckodriver	INFO	Listening on 127.0.0.1:52647
+1493676871651	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493676872582	Marionette	INFO	Listening on port 45816
+1493676872711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493676986429	geckodriver	INFO	Listening on 127.0.0.1:55666
+1493676987477	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493676988456	Marionette	INFO	Listening on port 33327
+1493676988577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493677291933	geckodriver	INFO	Listening on 127.0.0.1:34757
+1493677293025	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493677294063	Marionette	INFO	Listening on port 42765
+1493677294190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493677320225	geckodriver	INFO	Listening on 127.0.0.1:33170
+1493677321302	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493677322395	Marionette	INFO	Listening on port 43128
+1493677322519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493677334925	geckodriver	INFO	Listening on 127.0.0.1:51649
+1493677335978	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493677337020	Marionette	INFO	Listening on port 37229
+1493677337155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493677374206	geckodriver	INFO	Listening on 127.0.0.1:53725
+1493677375293	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493677376344	Marionette	INFO	Listening on port 35123
+1493677376473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493677401941	geckodriver	INFO	Listening on 127.0.0.1:60109
+1493677403035	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493677404061	Marionette	INFO	Listening on port 36259
+1493677404186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493677419685	geckodriver	INFO	Listening on 127.0.0.1:49990
+1493677420777	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493677421843	Marionette	INFO	Listening on port 42451
+1493677421978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493677502950	geckodriver	INFO	Listening on 127.0.0.1:36501
+1493677504022	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493677505030	Marionette	INFO	Listening on port 39193
+1493677505165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493677621421	geckodriver	INFO	Listening on 127.0.0.1:52589
+1493677622474	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493677623470	Marionette	INFO	Listening on port 38891
+1493677623587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493722593900	geckodriver	INFO	Listening on 127.0.0.1:36757
+1493722594974	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493722596827	Marionette	INFO	Listening on port 38166
+1493722597045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493722879859	geckodriver	INFO	Listening on 127.0.0.1:37489
+1493722880924	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493722881910	Marionette	INFO	Listening on port 35288
+1493722882038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493723108948	geckodriver	INFO	Listening on 127.0.0.1:45047
+1493723110000	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493723110933	Marionette	INFO	Listening on port 42216
+1493723111056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493723142242	geckodriver	INFO	Listening on 127.0.0.1:37469
+1493723143325	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493723144296	Marionette	INFO	Listening on port 43819
+1493723144420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493723209754	geckodriver	INFO	Listening on 127.0.0.1:47541
+1493723210827	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493723211852	Marionette	INFO	Listening on port 34085
+1493723211985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493723276611	geckodriver	INFO	Listening on 127.0.0.1:42337
+1493723277664	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493723278633	Marionette	INFO	Listening on port 38788
+1493723278758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493723425367	geckodriver	INFO	Listening on 127.0.0.1:58594
+1493723426432	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493723427418	Marionette	INFO	Listening on port 42388
+1493723427548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493723641910	geckodriver	INFO	Listening on 127.0.0.1:43880
+1493723642967	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493723643862	Marionette	INFO	Listening on port 34354
+1493723643982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493723808235	geckodriver	INFO	Listening on 127.0.0.1:58764
+1493723809303	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493723810327	Marionette	INFO	Listening on port 37534
+1493723810445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493736121005	geckodriver	INFO	Listening on 127.0.0.1:44354
+1493736122074	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493736123819	Marionette	INFO	Listening on port 36183
+1493736123952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493736176776	geckodriver	INFO	Listening on 127.0.0.1:37717
+1493736177841	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493736178938	Marionette	INFO	Listening on port 35130
+1493736179054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1493736766963	geckodriver	INFO	Listening on 127.0.0.1:57625
+1493736768015	geckodriver::marionette	INFO	Starting browser /usr/lib64/firefox/firefox.sh with args ["-marionette"]
+1493736769241	Marionette	INFO	Listening on port 39884
+1493736769392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bet365.com/home/js/globals_vA058cr.js, line 2: TypeError: $0i is undefined
+JavaScript warning: https://www.bet365.com/betslip/javascript/min/3.0.27.0/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
