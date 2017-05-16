@@ -6,7 +6,7 @@ MinValOdd = "unkown"    #Minimum value for the odd that is permited to bet
 minDelay = 4          #Minumum time delay in seconds
 MaxDelay = 20         #Maximum time delay in seconds
 
-from LoadOdds import LoadOdds
+from LoadBrowser import LoadBrowser
 from Game import Game
 import random
 
@@ -16,12 +16,12 @@ a= random.uniform(minDelay, MaxDelay) # example of Random time delay
 if __name__ == "__main__":
 
 
-    LoadOdds = LoadOdds()
+    LoadBrowser = LoadBrowser()
     #1. PREPARE WEBSITE:
     # - Click through the correct links until on the correct page (Overview - Soccer)
     # missing: delay between interaction
-    LoadOdds.locateElementByTextAndClick("English")
-    LoadOdds.locateElementByTextAndClick("In-Play")
+    LoadBrowser.locateElementByTextAndClick("English")
+    LoadBrowser.locateElementByTextAndClick("In-Play")
 
     #2. LOGIN
 
@@ -30,13 +30,13 @@ if __name__ == "__main__":
 
 
     #3. CLICK "Event View"
-    LoadOdds.locateElementByXpathAndClick("//span/div[2]")
+    LoadBrowser.locateElementByXpathAndClick("//span/div[2]")
 
     # 4. LOAD GAME DATA:
     # missing: score, betOptions, nameOfOdds, odds
-    teamList = LoadOdds.locateElementByClassAndLoad("ipn-TeamStack_Team")
-    timeList = LoadOdds.locateElementByClassAndLoad("ipn-ScoreDisplayStandard_Timer")
-    scoreList= LoadOdds.locateElementByClassAndLoad("ipn-ScoreDisplayStandard_Score")
+    teamList = LoadBrowser.locateElementByClassAndLoad("ipn-TeamStack_Team")
+    timeList = LoadBrowser.locateElementByClassAndLoad("ipn-ScoreDisplayStandard_Timer")
+    scoreList= LoadBrowser.locateElementByClassAndLoad("ipn-ScoreDisplayStandard_Score")
 
     availableGames = []
 
