@@ -1,12 +1,17 @@
-"""
-main.py 
-    Downloads the HTML of a website on the supplied URL
-    
-    If time is between 00:00 amd max_bet_time and odds for Over is > then min_odd_to_bet then place the bet
-"""
+#USER VARIABLES
+betOptions = "unkown"   #
+EndTime = "unkown"      #Last minute that is permiteted to bet
+StartTime = "unkown"    #First minute that is permited to bet
+MinValOdd = "unkown"    #Minimum value for the odd that is permited to bet
+minDelay = 4          #Minumum time delay in seconds
+MaxDelay = 20         #Maximum time delay in seconds
+
 from LoadOdds import LoadOdds
 from Game import Game
+import random
 
+
+a= random.uniform(minDelay, MaxDelay) # example of Random time delay
 
 if __name__ == "__main__":
 
@@ -31,21 +36,32 @@ if __name__ == "__main__":
     # missing: score, betOptions, nameOfOdds, odds
     teamList = LoadOdds.locateElementByClassAndLoad("ipn-TeamStack_Team")
     timeList = LoadOdds.locateElementByClassAndLoad("ipn-ScoreDisplayStandard_Timer")
+    scoreList= LoadOdds.locateElementByClassAndLoad("ipn-ScoreDisplayStandard_Score")
 
     availableGames = []
 
-    for i, item in enumerate(teamList[::2]):
+    for i, item in enumerate(teamList[::1]):
+        if i % 2 == 0:
+            print(i)
+            game = Game(teamList[i].text, teamList[i+1].text)
+            availableGames.append(game)
 
-        game = Game(teamList[i].text, teamList[i+1].text)
-        availableGames.append(game)
+    for item in timeList:
+            print(item.text)
 
-        if i < len(timeList):
-            game.setTime(timeList[i].text)
-
-
+    for item in scoreList:
+            print(item.text)
 
     for item in availableGames:
         item.toString()
+
+    print ("random time delay in seconds : ", a)
+
+
+
+
+
+
 """
 User Variables:
 betOptions, EndTime, StartTime, MinValOdd, minDelay, MaxDelay
