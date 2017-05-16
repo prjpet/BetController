@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
     #2. LOGIN
 
-    #LoadOdds.locateUsernameAndPassword("input.hm-Login_InputField", "alexandra1188","indietro11")
+    #LoadOdds.locateUsernameAndPassword("input.hm-Login_InputField", "username","password")
     #LoadOdds.locateElementByCssAndClick("button.hm-Login_LoginBtn")
 
 
