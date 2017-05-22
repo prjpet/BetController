@@ -8,8 +8,12 @@ MaxDelay = 10         #Maximum time delay in seconds
 
 from LoadBrowser import LoadBrowser
 from Game import Game
-import random, time
+import random, time, pyautogui
 
+
+# When fail-safe mode is True, moving the mouse to the upper-left will raise a pyautogui.FailSafeException that can abort your program:
+pyautogui.FAILSAFE = True
+a = random.uniform(minDelay, MaxDelay)  # example of Random time delay
 
 
 
@@ -34,28 +38,103 @@ if __name__ == "__main__":
 
     # 4. LOAD GAME DATA:
     # missing: score, betOptions, nameOfOdds, odds
-    teamList = LoadBrowser.locateElementByClassAndLoad("ipn-TeamStack_Team")
-    timeList = LoadBrowser.locateElementByClassAndLoad("ipn-ScoreDisplayStandard_Timer")
-    scoreList= LoadBrowser.locateElementByClassAndLoad("ipn-ScoreDisplayStandard_Score")
+    teamList = LoadBrowser.locateElementsByClassAndLoad("ipn-TeamStack_Team")
+    timeList = LoadBrowser.locateElementsByClassAndLoad("ipn-ScoreDisplayStandard_Timer")
+    scoreList= LoadBrowser.locateElementsByClassAndLoad("ipn-ScoreDisplayStandard_Score")
 
-    buttons = LoadBrowser.loadElementsByClassOnPage("ipn-FixtureButton ")# - THIS LOADS ALL GAMES ON PAGE WITH SCORES AND CURRENT TIME ans score
+    #LoadBrowser.locateElementByCssAndClick("ipn-CompetitionButton ") # to open closed competition
+
+    buttons = LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ")# - THIS LOADS ALL GAMES ON PAGE WITH SCORES AND CURRENT TIME ans score
     availableGames = []
 
-    #using a generator function go through every second element in the list, and also grab i to be the index of correct element, not standard increment
-    for i in range(0, min(len(teamList),len(timeList),len(scoreList))):
+first_run=False
+old_moveToY =225
+numberElement =0
+
+
+
+for item in buttons:
+
+        moveToX = item.location_once_scrolled_into_view['x'] + 100
+        moveToY = item.location_once_scrolled_into_view['y'] + 100
+
+        print(item.text)
+        print("mote to X: ",moveToX)
+        print("mote to Y: ",moveToY)
+        print("Item size: ", item.size)
+
+        if first_run==False: # move cursor at the starting point------------------------------------------------------------------------
+            pyautogui.hotkey('alt', 'space')
+            pyautogui.hotkey('x')
+            pyautogui.moveTo(moveToX, moveToY, duration=0.5)
+        first_run=True
+
+        scrool_val=(moveToY-old_moveToY)
+        print("Scrool value: ",scrool_val)
+        pyautogui.scroll(-scrool_val)
+        old_moveToY = moveToY
+        pyautogui.click(button='left')  # right-click the mouse
+        time.sleep(3)  # delays for seconds
+        #print("random time delay in seconds : ", a)
+
+        #LoadBrowser.locateElementByAndLoad("//div[@class='fc-day-content' and text()='15']")
+        buto_test=LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroupButton_Text")
+        for item in buto_test:
+            if item.text == "Fulltime Result": #"First Half Goals":
+                print("here")
+                for item in LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroupContainer gl-MarketGroupContainer_HasLabels "): # need to locate proper item
+                    print(item.text)
+                    time.sleep(300)  # delays for seconds
+
+
+
+
+
+
+
+
+
+
+
+
+
+                #using a generator function go through every second element in the list, and also grab i to be the index of correct element, not standard increment
+   # for i in range(0, min(len(teamList),len(timeList),len(scoreList))):
 
         #THEN append a game with time: T1 ----------------- T2 --------------- TIME ------------ SCORE -----
-        availableGames.append(Game(teamList[i*2].text, teamList[i*2+1].text, timeList[i].text, scoreList[i].text))
+       # availableGames.append(Game(teamList[i*2].text, teamList[i*2+1].text, timeList[i].text, scoreList[i].text))
 
     #DISPLAY ALL REGISTERED GAMES
-    for i, item in enumerate(availableGames):
-        a = random.uniform(minDelay, MaxDelay)  # example of Random time delay
+    #for i, item in enumerate(availableGames):
+
         #if i==0:
-        LoadBrowser.locateElementByTextAndClick(buttons[i].text[1:buttons[i].text.find("-")-1])
+        #LoadBrowser.locateElementByTextAndClick(buttons[i].text[1:buttons[i].text.find("-")-1])
         #else:
-            #LoadBrowser.locateElementByXpathAndClick("//div["+str(i+1)+"]/div/div[2]/div[2]")
-        time.sleep(1)  # delays for 5 seconds
-        print ("random time delay in seconds : ", a, " and i is:", i )
+        #LoadBrowser.locateElementByXpathAndClick("//div["+str(i+1)+"]/div/div[2]/div[2]")
+
+        #LoadBrowser.locateElementByClassAndClick("ipn - FixtureButton ")
+        #LoadBrowser.locateElementByClassAndClick( "ipn-Fixture ipn-Fixture_HasTeamStack ipn-Fixture-closed ipn-Fixture-selected ipn-Fixture-hastimer ")
+        #LoadBrowser.locateElementByClassAndClick("ipn - FixtureButton_OpenIcon")
+        #LoadBrowser.locateElementByClassAndClick("ipn - TeamStack")
+
+
+        #LoadBrowser.locateElementByCssAndClick("ipn - FixtureButton ")
+        #LoadBrowser.locateElementByCssAndClick( "ipn-Fixture ipn-Fixture_HasTeamStack ipn-Fixture-closed ipn-Fixture-selected ipn-Fixture-hastimer ")
+        #LoadBrowser.locateElementByCssAndClick("ipn - FixtureButton_OpenIcon")
+        #LoadBrowser.locateElementByCssAndClick("ipn - TeamStack")
+
+
+        #time.sleep(1)  # delays for 5 seconds
+        #print ("random time delay in seconds : ", a, " and i is:", i )
+
+# GUI
+
+#pyautogui.hotkey('alt', 'space')
+#pyautogui.hotkey('x')
+#pyautogui.moveTo(300, 300, duration=2)
+
+
+
 
 
 

@@ -44,6 +44,9 @@ class LoadBrowser():
 
         try:
             WebDriverWait(self.DRIVER, self.WAIT_TIMER).until(EC.presence_of_element_located((By.CSS_SELECTOR, element)))
+            print("start time sleep 2.5s")
+            time.sleep(2.5)
+            print("end time sleep 2.5s")
             self.DRIVER.find_element_by_css_selector(element).click()
 
         except TimeoutException:
@@ -66,6 +69,9 @@ class LoadBrowser():
     def locateElementByClassAndClick(self, element):
         try:
             WebDriverWait(self.DRIVER, self.WAIT_TIMER).until(EC.presence_of_element_located((By.CLASS_NAME, element)))
+            #print("start time sleep 2.5s")
+            #time.sleep(2.5)
+            #print("end time sleep 2.5s")
             self.DRIVER.find_element_by_class_name(element).click()
 
         except TimeoutException:
@@ -95,7 +101,7 @@ class LoadBrowser():
 
     # --------------------- LOCATE ELEMENTS CLASS, CSS ---------------------
 
-    def locateElementByCssAndLoad(self, element):
+    def locateElementsByCssAndLoad(self, element):
         try:
             WebDriverWait(self.DRIVER, self.WAIT_TIMER).until(EC.presence_of_element_located((By.CSS_SELECTOR, element)))
             myElements = self.loadElementsByCssOnPage(element)
@@ -107,7 +113,7 @@ class LoadBrowser():
 
         return myElements
 
-    def locateElementByClassAndLoad(self, element):
+    def locateElementsByClassAndLoad(self, element):
         try:
             WebDriverWait(self.DRIVER, self.WAIT_TIMER).until(EC.presence_of_element_located((By.CLASS_NAME, element)))
             myElements = self.loadElementsByClassOnPage(element)
@@ -131,6 +137,7 @@ class LoadBrowser():
             myOddList = []
 
         return myOddList
+
 
     def loadElementsByCssOnPage(self, element):
         try:
