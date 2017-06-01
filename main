@@ -113,7 +113,8 @@ for item in buttons:
             if item.text.find(SEARCH_STRING1) != -1:  # "First Half Goals": - WORKING
                 nextIndex = item.text.find(SEARCH_STRING2) + len(SEARCH_STRING2)
                 print("under= " + item.text[startIndex:startIndex+5] + " odd= " + item.text[nextIndex:nextIndex+4])
-
+#url = "mkyong.com#100#2015-10-1"
+#data = url.split("#")
                 
                 #for item in LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup"): # need to locate proper item
                     #print(item.text)
