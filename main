@@ -53,15 +53,21 @@ numberElement =0
 
 
 
+
+import io
+
+
+
 for item in buttons:
+
 
         moveToX = item.location_once_scrolled_into_view['x'] + 100
         moveToY = item.location_once_scrolled_into_view['y'] + 100
 
-        print(item.text)
-        print("mote to X: ",moveToX)
-        print("mote to Y: ",moveToY)
-        print("Item size: ", item.size)
+        #print(item.text)
+        #print("mote to X: ",moveToX)
+        #print("mote to Y: ",moveToY)
+        #print("Item size: ", item.size)
 
         if first_run==False: # move cursor at the starting point------------------------------------------------------------------------
             pyautogui.hotkey('alt', 'space')
@@ -70,25 +76,52 @@ for item in buttons:
         first_run=True
 
         scrool_val=(moveToY-old_moveToY)
-        print("Scrool value: ",scrool_val)
+        #print("Scrool value: ",scrool_val)
         pyautogui.scroll(-scrool_val)
         old_moveToY = moveToY
         pyautogui.click(button='left')  # right-click the mouse
+        """
+        str = LoadBrowser.DRIVER.page_source
+        # find word
+        myIndex = str.find("Fulltime Result")
+        print("found: ",myIndex)
+        # keep searching for stuff looks like this: <span class="gl-Participant_Name" style="">Draw</span> <span class="gl-Participant_Odds">1/7</span>
+        mySecondIndex = str[myIndex:].find(''"gl-Participant_Name"'')
+        print(str[mySecondIndex:mySecondIndex + len("gl-Participant_Name")])
+
+        myThirdIndex = str[mySecondIndex:].find("Draw")
+
+        myFourthIndex = str[myThirdIndex:].find("gl-Participant_Odds")
+
+        myFifthIndex = myFourthIndex + len('gl-Participant_Odds">')
+
+        print("Draw: " + str[myFifthIndex - 4:myFifthIndex + 10])
+
         time.sleep(3)  # delays for seconds
         #print("random time delay in seconds : ", a)
+        """
 
+        SEARCH_STRING1 = "First Half Goals"
+        SEARCH_STRING2 = "Over"
         #LoadBrowser.locateElementByAndLoad("//div[@class='fc-day-content' and text()='15']")
-        buto_test=LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroupButton_Text")
-        for item in buto_test:
-            if item.text == "Fulltime Result": #"First Half Goals":
-                print("here")
-                for item in LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroupContainer gl-MarketGroupContainer_HasLabels "): # need to locate proper item
-                    print(item.text)
-                    time.sleep(300)  # delays for seconds
+        #buto_test=LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroupButton_Text") - working
+        buto_test = LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup")
+        for i, item in enumerate(buto_test):
+            #print(i,": " + item.text)
+            startIndex = len(SEARCH_STRING1)
 
+            if item.text.find(SEARCH_STRING1) != -1:  # "First Half Goals": - WORKING
+                nextIndex = item.text.find(SEARCH_STRING2) + len(SEARCH_STRING2)
+                print("under= " + item.text[startIndex:startIndex+5] + " odd= " + item.text[nextIndex:nextIndex+4])
 
+                
+                #for item in LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup"): # need to locate proper item
+                    #print(item.text)
+                    #time.sleep(300)  # delays for seconds
+                #with io.open(item.text[:1] + ".txt", "w", encoding="utf-8") as f:
+                    #f.write(new_str)
 
-
+                    #f.close()
 
 
 
