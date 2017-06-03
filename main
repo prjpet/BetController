@@ -10,6 +10,8 @@ from LoadBrowser import LoadBrowser
 from Game import Game
 import random, time, pyautogui
 
+import io
+
 
 # When fail-safe mode is True, moving the mouse to the upper-left will raise a pyautogui.FailSafeException that can abort your program:
 pyautogui.FAILSAFE = True
@@ -42,23 +44,24 @@ if __name__ == "__main__":
     timeList = LoadBrowser.locateElementsByClassAndLoad("ipn-ScoreDisplayStandard_Timer")
     scoreList= LoadBrowser.locateElementsByClassAndLoad("ipn-ScoreDisplayStandard_Score")
 
-    #LoadBrowser.locateElementByCssAndClick("ipn-CompetitionButton ") # to open closed competition
-
-    buttons = LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ")# - THIS LOADS ALL GAMES ON PAGE WITH SCORES AND CURRENT TIME ans score
-    availableGames = []
-
-first_run=False
-old_moveToY =225
-numberElement =0
+    #CHANGE: 03/06/2017 - RENAMED "buttons" to "originalGames"
+    originalGames = LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ")# - THIS LOADS ALL GAMES ON PAGE WITH SCORES AND CURRENT TIME ans score
 
 
 
 
-import io
+    first_run=False
+    old_moveToY =225
+    numberElement = 0
 
+    #
 
+    for item in originalGames:
+        #CHANGE: 03/06/2017 - NEED to check whether the original games are the same as the available games,
+        #                     because the code will break if the game list changed
+        #                     and you try to click on the game which is not there anymore.
 
-for item in buttons:
+        availableGames = LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ")
 
 
         moveToX = item.location_once_scrolled_into_view['x'] + 100
@@ -113,9 +116,11 @@ for item in buttons:
             if item.text.find(SEARCH_STRING1) != -1:  # "First Half Goals": - WORKING
                 nextIndex = item.text.find(SEARCH_STRING2) + len(SEARCH_STRING2)
                 print("under= " + item.text[startIndex:startIndex+5] + " odd= " + item.text[nextIndex:nextIndex+4])
-#url = "mkyong.com#100#2015-10-1"
-#data = url.split("#")
-                
+
+                # url = "mkyong.com#100#2015-10-1"
+                # data = url.split("#")
+
+
                 #for item in LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup"): # need to locate proper item
                     #print(item.text)
                     #time.sleep(300)  # delays for seconds
