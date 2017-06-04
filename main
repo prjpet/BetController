@@ -1,8 +1,8 @@
 #USER VARIABLES
 betOptions = "unkown"   #
-EndTime = "unkown"      #Last minute that is permiteted to bet
-StartTime = "unkown"    #First minute that is permited to bet
-MinValOdd = "unkown"    #Minimum value for the odd that is permited to bet
+EndTime = "45"      #Last minute that is permiteted to bet
+StartTime = "10"    #First minute that is permited to bet
+MinValOdd = "1.2"    #Minimum value for the odd that is permited to bet
 minDelay = 4          #Minumum time delay in seconds
 MaxDelay = 10         #Maximum time delay in seconds
 
@@ -28,6 +28,9 @@ if __name__ == "__main__":
     # missing: delay between interaction
     LoadBrowser.locateElementByTextAndClick("English")
     LoadBrowser.locateElementByTextAndClick("In-Play")
+    LoadBrowser.DRIVER.find_elements_by_class_name("hm-DropDownSelections_Highlight ")[1].click()
+    LoadBrowser.locateElementByTextAndClick("Decimal")
+
 
     #2. LOGIN
 
@@ -57,6 +60,10 @@ if __name__ == "__main__":
     #
 
     for item in originalGames:
+        Odd05="NONE"
+        OverGoals="NONE"
+        Bet_ON="FALSE"
+        FHG_list=[]
         #CHANGE: 03/06/2017 - NEED to check whether the original games are the same as the available games,
         #                     because the code will break if the game list changed
         #                     and you try to click on the game which is not there anymore.
@@ -66,8 +73,11 @@ if __name__ == "__main__":
 
         moveToX = item.location_once_scrolled_into_view['x'] + 100
         moveToY = item.location_once_scrolled_into_view['y'] + 100
-
-        #print(item.text)
+        Team1 = item.text.split("\n")[0]
+        Team2 = item.text.split("\n")[1]
+        Score = item.text.split("\n")[2]
+        GameTime = item.text.split("\n")[3]
+        #print(item.text.split("\n"))
         #print("mote to X: ",moveToX)
         #print("mote to Y: ",moveToY)
         #print("Item size: ", item.size)
@@ -83,57 +93,39 @@ if __name__ == "__main__":
         pyautogui.scroll(-scrool_val)
         old_moveToY = moveToY
         pyautogui.click(button='left')  # right-click the mouse
-        """
-        str = LoadBrowser.DRIVER.page_source
-        # find word
-        myIndex = str.find("Fulltime Result")
-        print("found: ",myIndex)
-        # keep searching for stuff looks like this: <span class="gl-Participant_Name" style="">Draw</span> <span class="gl-Participant_Odds">1/7</span>
-        mySecondIndex = str[myIndex:].find(''"gl-Participant_Name"'')
-        print(str[mySecondIndex:mySecondIndex + len("gl-Participant_Name")])
 
-        myThirdIndex = str[mySecondIndex:].find("Draw")
 
-        myFourthIndex = str[myThirdIndex:].find("gl-Participant_Odds")
-
-        myFifthIndex = myFourthIndex + len('gl-Participant_Odds">')
-
-        print("Draw: " + str[myFifthIndex - 4:myFifthIndex + 10])
-
-        time.sleep(3)  # delays for seconds
-        #print("random time delay in seconds : ", a)
-        """
+        # LOOF FOR FIRST HALF GOALS
 
         SEARCH_STRING1 = "First Half Goals"
         SEARCH_STRING2 = "Over"
-        #LoadBrowser.locateElementByAndLoad("//div[@class='fc-day-content' and text()='15']")
-        #buto_test=LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroupButton_Text") - working
+        # LoadBrowser.locateElementByAndLoad("//div[@class='fc-day-content' and text()='15']")
+        # buto_test=LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroupButton_Text") - working
         buto_test = LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup")
         for i, item in enumerate(buto_test):
             #print(i,": " + item.text)
             startIndex = len(SEARCH_STRING1)
 
             if item.text.find(SEARCH_STRING1) != -1:  # "First Half Goals": - WORKING
-                nextIndex = item.text.find(SEARCH_STRING2) + len(SEARCH_STRING2)
-                print("under= " + item.text[startIndex:startIndex+5] + " odd= " + item.text[nextIndex:nextIndex+4])
+                FHG_list = item.text.split("\n")
+                #check if Over value is a float value- error in case that odds are blocked/modified
+                if FHG_list[FHG_list.index("Over") + 1] !="Under":
+                    Odd05 = FHG_list[FHG_list.index("Over") + 1]
+                    OverGoals=(FHG_list[1])
+                    #print(Odd05)
 
-                # url = "mkyong.com#100#2015-10-1"
-                # data = url.split("#")
+            #Validate for bet_on
+        if Score =="0-0" and StartTime < GameTime[:2] and EndTime > GameTime[:2] and MinValOdd<Odd05 and OverGoals=="0.5":
+            Bet_ON="TRUE"
 
-
-                #for item in LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup"): # need to locate proper item
-                    #print(item.text)
-                    #time.sleep(300)  # delays for seconds
-                #with io.open(item.text[:1] + ".txt", "w", encoding="utf-8") as f:
-                    #f.write(new_str)
-
-                    #f.close()
-
-
+            # element_list with: CURRENT TIME.....TEAM 1.....TEAM 2.....SCORE.....TIME OF THE GAME.....OVER GOALS....ODD OVER.....BET ON.....WINNER
+        element_list=(Team1+","+Team2+","+Score+","+GameTime+","+OverGoals+","+Odd05,","+Bet_ON)
+        print(element_list)
 
 
 
 
+       #WAYS TO DEAL WITH ERROR ->    http://engineeringquality.blogspot.co.uk/2013/08/ways-of-dealing-with.html
 
 
 
