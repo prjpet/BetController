@@ -86,56 +86,43 @@ def loadData(item):
 
 
 
-
 def clickThroughValidItems(originalGames, old_moveToY):
     # - THIS LOADS ALL GAMES ON PAGE WITH SCORES AND CURRENT TIME ans score
 
     itemCounter = 0
 
-    newListOfGames = LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ")
     # ASSUMPTION: LIST IS VALID
-    while originalGames == newListOfGames:
+    while len(originalGames) > itemCounter+1 and len(originalGames[itemCounter].text.split("\n")[2])==3 and originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
         # MOVE TO CORRECT POSITION:
-
-        moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + pyautogui.size()[0]/2+ 100 #int(originalGames[itemCounter].size["width"]/2)
-        moveToY = originalGames[itemCounter].location_once_scrolled_into_view['y'] + 100 #int(originalGames[itemCounter].size["height"]*2)
-
+        if originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
+            moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + pyautogui.size()[0]/2+ 100 #int(originalGames[itemCounter].size["width"]/2)
+        else:
+            break
+        if originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
+            moveToY = originalGames[itemCounter].location_once_scrolled_into_view['y'] + 120 # int(originalGames[itemCounter].size["height"])
+        else:
+            break
         #pyautogui.alert(text=originalGames[itemCounter].size["height"], title='', button='OK')
         #move cursor to begining of the list
         if itemCounter == 0: pyautogui.moveTo(moveToX, moveToY, duration=0.5)
 
-        scrool_val = (moveToY - old_moveToY)
-        #print("Scrool value: ",scrool_val)
-        #print(len(originalGames))
-
-        pyautogui.scroll(-scrool_val)
-        old_moveToY = moveToY
-
         # CLICK:
         pyautogui.click(button='left')
-
-
-        # VALIDATE LIST - IF TRUE, REPEAT - IF FALSE START ALL OVER WITH NEW LIST
-        if len(originalGames) > itemCounter+1 and len(originalGames[itemCounter].text.split("\n")[2])==3:
-            itemCounter += 1
-            #Here there is an issue
-            #print("i:",itemCounter, "len(originalGames: ",len(originalGames),"len(originalGames[itemCounter].text.split: ", len(originalGames[itemCounter].text.split("\n")[2]))
-        else:           #scrool to top of the list.
-            print("break")
-            break
 
         # LOAD DATA:
         loadData(originalGames[itemCounter])
 
+        itemCounter += 1
 
-    clickThroughValidItems(newListOfGames, START_OFFSET)
+
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "), START_OFFSET)
 
 
 
 if __name__ == "__main__":
 
-
     LoadBrowser = LoadBrowser()
+
     #1. PREPARE WEBSITE:
     # - Click through the correct links until on the correct page (Overview - Soccer)
     # missing: delay between interaction
