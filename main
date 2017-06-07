@@ -2,10 +2,12 @@
 betOptions = "unkown"   #
 EndTime = "45"      #Last minute that is permiteted to bet
 StartTime = "10"    #First minute that is permited to bet
-MinValOdd = "1.2"    #Minimum value for the odd that is permited to bet
+MinValOdd = "1.2"   #Minimum value for the odd that is permited to bet
 minDelay = 4          #Minumum time delay in seconds
 MaxDelay = 10         #Maximum time delay in seconds
 START_OFFSET = 225
+
+
 
 from LoadBrowser import LoadBrowser
 from Game import Game
@@ -14,28 +16,42 @@ import random, time, pyautogui
 import io
 
 
+
+
 # When fail-safe mode is True, moving the mouse to the upper-left will raise a pyautogui.FailSafeException that can abort your program:
 pyautogui.FAILSAFE = True
 a = random.uniform(minDelay, MaxDelay)  # example of Random time delay
 
 def loadData(item):
+
+
+
+
     splitText = item.text.split("\n")
-    if len(splitText) > 2:
+    if len(splitText) >= 4:
         Team1 = splitText[0]
         Team2 = splitText[1]
         Score = splitText[2]
         GameTime = splitText[3]
-#only for security of not BREAKING the coce use the following : - ONLY FOR PJ :D
+#only for security of not BREAKING the coce use the following : - ONLY FOR P :D
     else:
         Team1 = "NONE"
         Team2 = "NONE"
         Score = "NONE"
         GameTime = "NONE"
-
+    global Odd05
     Odd05 = "NONE"
+
+    global OverGoals
     OverGoals = "NONE"
-    Bet_ON = False
+
+    global Winner
     Winner = False
+
+    global Bet_ON
+    Bet_ON = False
+
+
     FHG_list = []
 
     # LOOK FOR FIRST HALF GOALS
@@ -53,21 +69,23 @@ def loadData(item):
             if FHG_list[FHG_list.index(SEARCH_STRING2) + 1] != "Under":
                 Odd05 = FHG_list[FHG_list.index(SEARCH_STRING2) + 1]
                 OverGoals = (FHG_list[1])
-                # print(Odd05)
+
 
     # Validate for bet_on
-    if Score == "0-0" and  StartTime < GameTime[:2] and EndTime > GameTime[:2] and MinValOdd < Odd05 and OverGoals == "0.5":
+    if Score == "0-0" and  StartTime < GameTime[:2] and EndTime > GameTime[:2] and OverGoals == " 0.5" and MinValOdd < Odd05 :
         Winner = False
         Bet_ON = True
-    elif Score != "0-0" and  Bet_ON:
-        Winner = True
 
-
+    #elif Score != "0-0" and Bet_ON==True:
+        #Winner = True
 
     # element_list with: CURRENT TIME.....TEAM 1.....TEAM 2.....SCORE.....TIME OF THE GAME.....OVER GOALS....ODD OVER.....BET ON.....WINNER
 
     element_list = [Team1, Team2, Score, GameTime, OverGoals, Odd05, str(Bet_ON), str(Winner)]
     print(element_list)
+
+
+
 
 def clickThroughValidItems(originalGames, old_moveToY):
     # - THIS LOADS ALL GAMES ON PAGE WITH SCORES AND CURRENT TIME ans score
@@ -79,7 +97,7 @@ def clickThroughValidItems(originalGames, old_moveToY):
     while originalGames == newListOfGames:
         # MOVE TO CORRECT POSITION:
 
-        moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + 100 #int(originalGames[itemCounter].size["width"]/2)
+        moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + pyautogui.size()[0]/2+ 100 #int(originalGames[itemCounter].size["width"]/2)
         moveToY = originalGames[itemCounter].location_once_scrolled_into_view['y'] + 100 #int(originalGames[itemCounter].size["height"]*2)
 
         #pyautogui.alert(text=originalGames[itemCounter].size["height"], title='', button='OK')
@@ -87,25 +105,32 @@ def clickThroughValidItems(originalGames, old_moveToY):
         if itemCounter == 0: pyautogui.moveTo(moveToX, moveToY, duration=0.5)
 
         scrool_val = (moveToY - old_moveToY)
-        print("Scrool value: ",scrool_val)
-        print(len(originalGames))
+        #print("Scrool value: ",scrool_val)
+        #print(len(originalGames))
+
         pyautogui.scroll(-scrool_val)
         old_moveToY = moveToY
 
         # CLICK:
         pyautogui.click(button='left')
 
+
+        # VALIDATE LIST - IF TRUE, REPEAT - IF FALSE START ALL OVER WITH NEW LIST
+        if len(originalGames) > itemCounter+1 and len(originalGames[itemCounter].text.split("\n")[2])==3:
+            itemCounter += 1
+            #Here there is an issue
+            #print("i:",itemCounter, "len(originalGames: ",len(originalGames),"len(originalGames[itemCounter].text.split: ", len(originalGames[itemCounter].text.split("\n")[2]))
+        else:           #scrool to top of the list.
+            print("break")
+            break
+
         # LOAD DATA:
         loadData(originalGames[itemCounter])
-        # VALIDATE LIST - IF TRUE, REPEAT - IF FALSE START ALL OVER WITH NEW LIST
-        if len(originalGames) > itemCounter+1:
-            itemCounter += 1
-            print("i:",itemCounter)
-        else:           #scrool to top of the list.
-            break
 
 
     clickThroughValidItems(newListOfGames, START_OFFSET)
+
+
 
 if __name__ == "__main__":
 
@@ -138,6 +163,8 @@ if __name__ == "__main__":
 
     #pyautogui.hotkey('alt', 'space')
     #pyautogui.hotkey('x')
+    pyautogui.hotkey('win', 'right')
+
 
 
     clickThroughValidItems(originalGames, START_OFFSET)
