@@ -22,12 +22,12 @@ import io
 pyautogui.FAILSAFE = True
 a = random.uniform(minDelay, MaxDelay)  # example of Random time delay
 
-def loadData(item):
+def loadData(item1):
 
 
 
 
-    splitText = item.text.split("\n")
+    splitText = item1.text.split("\n")
     if len(splitText) >= 4:
         Team1 = splitText[0]
         Team2 = splitText[1]
@@ -57,19 +57,21 @@ def loadData(item):
     # LOOK FOR FIRST HALF GOALS
     SEARCH_STRING1 = "First Half Goals"
     SEARCH_STRING2 = "Over"
-    # LoadBrowser.locateElementByAndLoad("//div[@class='fc-day-content' and text()='15']")
-    # buto_test=LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroupButton_Text") - working
+
+    #MARKET_GROUP is the full list of odds
     buto_test = LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup")
     for i, item in enumerate(buto_test):
         # print(i,": " + item.text)
 
-        if item.text.find(SEARCH_STRING1) != -1:  # "First Half Goals": - WORKING
+        if item.text.find(SEARCH_STRING1) != -1 and buto_test == LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup"):  # "First Half Goals": - WORKING
             FHG_list = item.text.split("\n")
             # check if Over value is a float value- error in case that odds are blocked/modified
             if FHG_list[FHG_list.index(SEARCH_STRING2) + 1] != "Under":
                 Odd05 = FHG_list[FHG_list.index(SEARCH_STRING2) + 1]
                 OverGoals = (FHG_list[1])
-
+        else:
+            print("load again gl-MarketGroup")
+            # loadData(item1)
 
     # Validate for bet_on
     if Score == "0-0" and  StartTime < GameTime[:2] and EndTime > GameTime[:2] and OverGoals == " 0.5" and MinValOdd < Odd05 :
@@ -86,7 +88,7 @@ def loadData(item):
 
 
 
-def clickThroughValidItems(originalGames, old_moveToY):
+def clickThroughValidItems(originalGames):
     # - THIS LOADS ALL GAMES ON PAGE WITH SCORES AND CURRENT TIME ans score
 
     itemCounter = 0
@@ -98,10 +100,12 @@ def clickThroughValidItems(originalGames, old_moveToY):
             moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + pyautogui.size()[0]/2+ 100 #int(originalGames[itemCounter].size["width"]/2)
         else:
             break
+            print("break on x")
         if originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
             moveToY = originalGames[itemCounter].location_once_scrolled_into_view['y'] + 120 # int(originalGames[itemCounter].size["height"])
         else:
             break
+            print("break on y")
         #pyautogui.alert(text=originalGames[itemCounter].size["height"], title='', button='OK')
         #move cursor to begining of the list
         if itemCounter == 0: pyautogui.moveTo(moveToX, moveToY, duration=0.5)
@@ -115,7 +119,7 @@ def clickThroughValidItems(originalGames, old_moveToY):
         itemCounter += 1
 
 
-    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "), START_OFFSET)
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
 
 
 
@@ -145,16 +149,11 @@ if __name__ == "__main__":
     #timeList = LoadBrowser.locateElementsByClassAndLoad("ipn-ScoreDisplayStandard_Timer")
     #scoreList= LoadBrowser.locateElementsByClassAndLoad("ipn-ScoreDisplayStandard_Score")
 
-    #CHANGE: 03/06/2017 - RENAMED "buttons" to "originalGames"
-    originalGames = LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ")
-
     #pyautogui.hotkey('alt', 'space')
     #pyautogui.hotkey('x')
     pyautogui.hotkey('win', 'right')
 
-
-
-    clickThroughValidItems(originalGames, START_OFFSET)
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
 
 """
 User Variables:
