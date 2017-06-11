@@ -1,0 +1,389 @@
+C:\Python34\python.exe C:/Users/User/Desktop/BetController-master/main
+['0.05', 0, 'out of', 79, 'Albacete', 'Atletico Baleares', '1-1', '101:42', 'NONE', 'NONE', 'False', 'False']
+['0.15', 1, 'out of', 79, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-0', '34:36', ' 1.5', '3.25', 'False', 'False']
+['0.25', 2, 'out of', 79, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '40:14', ' 0.5', '4.33', 'True', 'False']
+['0.30', 3, 'out of', 79, 'ToTe', 'KäPa/Pule', '1-0', '58:13', ' 2.5', '2.00', 'False', 'False']
+['0.36', 4, 'out of', 79, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '11:17', ' 1.5', '2.50', 'False', 'False']
+['0.51', 5, 'out of', 79, 'Nest-Sotra', 'Notodden', '0-0', '07:55', ' 0.5', '1.28', 'False', 'False']
+['0.58', 6, 'out of', 79, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '07:43', ' 1.5', '1.90', 'False', 'False']
+['0.66', 7, 'out of', 79, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '0-0', '07:03', ' 1.5', '2.10', 'False', 'False']
+['0.72', 8, 'out of', 79, 'Högaborgs BK', 'Kungsbacka IF', '1-0', '08:59', ' 2.5', '2.10', 'False', 'False']
+['0.80', 9, 'out of', 79, 'IFK Lidingo U19', 'AIK U19', '0-0', '10:30', ' 1.5', '2.62', 'False', 'False']
+['0.89', 10, 'out of', 79, 'Army United', 'Prachuap FC', '2-1', '10:42', ' 3.5', '1.40', 'False', 'False']
+['1.00', 11, 'out of', 79, 'Chainat FC', 'Samut Songkhram', '1-1', '10:30', ' 3.5', '2.37', 'False', 'False']
+['1.08', 12, 'out of', 79, 'Kasetsart FC', 'Chiangmai', '2-2', '52:02', ' 5.5', '2.10', 'False', 'False']
+['1.14', 13, 'out of', 79, 'Forfar Farmington Development LFC Women', 'Buchan Women', '1-0', '06:10', ' 3.5', '2.10', 'False', 'False']
+['1.20', 14, 'out of', 79, 'AFC Leopards', 'Gor Mahia', '0-0', '01:17', ' 0.5', '1.61', 'False', 'False']
+['1.29', 15, 'out of', 79, 'Russia Women', 'Serbia Women', '0-0', '09:45', ' 1.5', '2.37', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: False  Equal Lists: True
+['1.33', 0, 'out of', 79, 'Albacete', 'Atletico Baleares', '1-1', '102:59', 'NONE', 'NONE', 'False', 'False']
+['1.45', 1, 'out of', 79, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-0', '35:53', ' 1.5', '3.50', 'False', 'False']
+['1.54', 2, 'out of', 79, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '41:31', ' 0.5', '5.50', 'True', 'False']
+['1.60', 3, 'out of', 79, 'ToTe', 'KäPa/Pule', '1-0', '59:30', ' 2.5', '2.10', 'False', 'False']
+['1.67', 4, 'out of', 79, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '12:35', ' 0.5', '1.40', 'True', 'False']
+['1.81', 5, 'out of', 79, 'Nest-Sotra', 'Notodden', '0-0', '09:14', ' 0.5', '1.28', 'False', 'False']
+['1.88', 6, 'out of', 79, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '09:01', ' 1.5', '2.00', 'False', 'False']
+['1.98', 7, 'out of', 79, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '0-0', '08:22', ' 1.5', '2.10', 'False', 'False']
+['2.05', 8, 'out of', 79, 'Högaborgs BK', 'Kungsbacka IF', '1-0', '10:19', ' 2.5', '2.10', 'False', 'False']
+['2.15', 9, 'out of', 79, 'IFK Lidingo U19', 'AIK U19', '0-0', '11:50', ' 0.5', '1.36', 'True', 'False']
+['2.25', 10, 'out of', 79, 'Army United', 'Prachuap FC', '2-1', '12:02', ' 3.5', '1.40', 'False', 'False']
+['2.35', 11, 'out of', 79, 'Chainat FC', 'Samut Songkhram', '1-1', '11:51', 'NONE', 'NONE', 'False', 'False']
+['2.41', 12, 'out of', 79, 'Kasetsart FC', 'Chiangmai', '2-2', '53:24', ' 5.5', '2.20', 'False', 'False']
+['2.48', 13, 'out of', 79, 'Forfar Farmington Development LFC Women', 'Buchan Women', '1-0', '07:30', ' 3.5', '2.20', 'False', 'False']
+['2.54', 14, 'out of', 79, 'AFC Leopards', 'Gor Mahia', '0-0', '02:37', ' 0.5', '1.61', 'False', 'False']
+['2.64', 15, 'out of', 79, 'Russia Women', 'Serbia Women', '0-0', '11:05', ' 1.5', '2.50', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: False  Equal Lists: True
+['2.68', 0, 'out of', 79, 'Albacete', 'Atletico Baleares', '1-1', '104:19', 'NONE', 'NONE', 'False', 'False']
+['2.80', 1, 'out of', 79, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-0', '37:13', ' 1.5', '4.33', 'False', 'False']
+['2.89', 2, 'out of', 79, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '42:52', ' 0.5', '1.10', 'False', 'False']
+['2.97', 3, 'out of', 79, 'ToTe', 'KäPa/Pule', '1-0', '60:51', ' 2.5', '2.20', 'False', 'False']
+['3.03', 4, 'out of', 79, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '13:57', ' 0.5', '1.40', 'True', 'False']
+['3.19', 5, 'out of', 79, 'Nest-Sotra', 'Notodden', '0-0', '10:36', ' 0.5', '1.33', 'False', 'False']
+['3.26', 6, 'out of', 79, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '10:24', ' 1.5', '2.10', 'False', 'False']
+['3.36', 7, 'out of', 79, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '0-0', '09:44', ' 1.5', '2.20', 'False', 'False']
+['3.44', 8, 'out of', 79, 'Högaborgs BK', 'Kungsbacka IF', '1-0', '11:41', ' 2.5', '2.25', 'False', 'False']
+['3.55', 9, 'out of', 79, 'IFK Lidingo U19', 'AIK U19', '0-0', '13:12', 'NONE', 'NONE', 'False', 'False']
+['3.66', 10, 'out of', 79, 'Army United', 'Prachuap FC', '2-1', '13:27', ' 3.5', '1.50', 'False', 'False']
+['3.77', 11, 'out of', 79, 'Chainat FC', 'Samut Songkhram', '1-1', '13:16', ' 3.5', '2.25', 'False', 'False']
+['3.83', 12, 'out of', 79, 'Kasetsart FC', 'Chiangmai', '2-2', '54:48', ' 5.5', '2.25', 'False', 'False']
+['3.90', 13, 'out of', 79, 'Forfar Farmington Development LFC Women', 'Buchan Women', '1-0', '08:54', ' 3.5', '2.25', 'False', 'False']
+['3.97', 14, 'out of', 79, 'AFC Leopards', 'Gor Mahia', '0-0', '04:03', ' 0.5', '1.66', 'False', 'False']
+['4.08', 15, 'out of', 79, 'Russia Women', 'Serbia Women', '0-0', '12:31', ' 1.5', '2.62', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: False  Equal Lists: False
+['4.12', 0, 'out of', 78, 'Albacete', 'Atletico Baleares', '1-1', '105:00', 'NONE', 'NONE', 'False', 'False']
+['4.25', 1, 'out of', 78, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-0', '38:40', ' 1.5', '5.00', 'False', 'False']
+['4.35', 2, 'out of', 78, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '44:19', ' 0.5', '1.12', 'False', 'False']
+['4.42', 3, 'out of', 78, 'ToTe', 'KäPa/Pule', '1-0', '62:18', ' 2.5', '2.25', 'False', 'False']
+['4.50', 4, 'out of', 78, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '15:23', ' 0.5', '1.50', 'True', 'False']
+['4.68', 5, 'out of', 78, 'Nest-Sotra', 'Notodden', '0-0', '12:03', ' 0.5', '1.36', 'True', 'False']
+['4.75', 6, 'out of', 78, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '11:53', ' 1.5', '2.10', 'False', 'False']
+['4.86', 7, 'out of', 78, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '0-1', '11:15', ' 2.5', '2.20', 'False', 'False']
+['4.94', 8, 'out of', 78, 'Högaborgs BK', 'Kungsbacka IF', '1-0', '13:12', ' 2.5', '2.37', 'False', 'False']
+['5.04', 9, 'out of', 78, 'IFK Lidingo U19', 'AIK U19', '0-1', '14:43', ' 1.5', '1.40', 'False', 'False']
+['5.14', 10, 'out of', 78, 'Army United', 'Prachuap FC', '2-1', '14:56', ' 3.5', '1.50', 'False', 'False']
+['5.25', 11, 'out of', 78, 'Chainat FC', 'Samut Songkhram', '1-1', '14:45', ' 3.5', '2.50', 'False', 'False']
+['5.33', 12, 'out of', 78, 'Kasetsart FC', 'Chiangmai', '2-2', '56:17', ' 5.5', '2.37', 'False', 'False']
+['5.40', 13, 'out of', 78, 'Forfar Farmington Development LFC Women', 'Buchan Women', '1-0', '10:24', ' 3.5', '2.37', 'False', 'False']
+['5.47', 14, 'out of', 78, 'AFC Leopards', 'Gor Mahia', '0-0', '05:33', ' 0.5', '1.66', 'False', 'False']
+['5.58', 15, 'out of', 78, 'Russia Women', 'Serbia Women', '0-0', '14:01', ' 0.5', '1.44', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: False  Equal Lists: True
+['5.63', 0, 'out of', 78, 'Albacete', 'Atletico Baleares', '1-1', '105:00', 'NONE', 'NONE', 'False', 'False']
+['5.77', 1, 'out of', 78, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-0', '40:10', ' 1.5', '6.00', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['5.81', 0, 'out of', 77, 'Albacete', 'Atletico Baleares', '1-1', '105:00', 'NONE', 'NONE', 'False', 'False']
+['5.94', 1, 'out of', 77, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-0', '40:22', ' 1.5', '6.00', 'False', 'False']
+BREAK 62
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['6.04', 0, 'out of', 77, 'Albacete', 'Atletico Baleares', '1-1', '105:00', 'NONE', 'NONE', 'False', 'False']
+['6.18', 1, 'out of', 77, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-0', '40:34', ' 1.5', '6.50', 'False', 'False']
+['6.28', 2, 'out of', 77, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['6.35', 3, 'out of', 77, 'ToTe', 'KäPa/Pule', '2-0', '64:14', 'NONE', 'NONE', 'False', 'False']
+['6.43', 4, 'out of', 77, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '17:19', ' 0.5', '1.53', 'True', 'False']
+['6.64', 5, 'out of', 77, 'Nest-Sotra', 'Notodden', '0-0', '13:59', ' 0.5', '1.40', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['6.68', 0, 'out of', 76, 'Albacete', 'Atletico Baleares', '1-1', '105:00', 'NONE', 'NONE', 'False', 'False']
+['6.78', 1, 'out of', 76, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '41:13', ' 2.5', '7.00', 'False', 'False']
+['6.87', 2, 'out of', 76, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['6.94', 3, 'out of', 76, 'ToTe', 'KäPa/Pule', '2-0', '64:51', 'NONE', 'NONE', 'False', 'False']
+['7.02', 4, 'out of', 76, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '17:55', ' 0.5', '1.57', 'True', 'False']
+['7.23', 5, 'out of', 76, 'Nest-Sotra', 'Notodden', '0-0', '14:35', ' 0.5', '1.40', 'True', 'False']
+['7.31', 6, 'out of', 76, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '14:27', ' 1.5', '2.37', 'False', 'False']
+['7.43', 7, 'out of', 76, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '1-1', '13:48', ' 3.5', '2.25', 'False', 'False']
+['7.52', 8, 'out of', 76, 'Högaborgs BK', 'Kungsbacka IF', '1-0', '15:46', ' 2.5', '2.62', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['7.56', 0, 'out of', 75, 'Albacete', 'Atletico Baleares', '1-1', '105:52', 'NONE', 'NONE', 'False', 'False']
+['7.65', 1, 'out of', 75, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '42:06', ' 2.5', '1.28', 'False', 'False']
+['7.75', 2, 'out of', 75, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['7.82', 3, 'out of', 75, 'ToTe', 'KäPa/Pule', '2-0', '65:43', 'NONE', 'NONE', 'False', 'False']
+['7.90', 4, 'out of', 75, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '18:48', ' 0.5', '1.57', 'True', 'False']
+['8.12', 5, 'out of', 75, 'Nest-Sotra', 'Notodden', '0-0', '15:27', ' 0.5', '1.44', 'True', 'False']
+['8.20', 6, 'out of', 75, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '15:19', ' 1.5', '2.37', 'False', 'False']
+['8.34', 7, 'out of', 75, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '1-1', '14:41', ' 3.5', '2.37', 'False', 'False']
+['8.42', 8, 'out of', 75, 'Högaborgs BK', 'Kungsbacka IF', '1-0', '16:40', ' 2.5', '2.62', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['8.47', 0, 'out of', 76, 'Albacete', 'Atletico Baleares', '1-1', '106:46', 'NONE', 'NONE', 'False', 'False']
+['8.56', 1, 'out of', 76, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '43:02', ' 2.5', '1.25', 'False', 'False']
+['8.67', 2, 'out of', 76, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['8.71', 0, 'out of', 75, 'Albacete', 'Atletico Baleares', '1-1', '107:02', 'NONE', 'NONE', 'False', 'False']
+['8.80', 1, 'out of', 75, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '43:15', ' 2.5', '1.25', 'False', 'False']
+['8.91', 2, 'out of', 75, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['8.98', 3, 'out of', 75, 'ToTe', 'KäPa/Pule', '2-0', '66:52', 'NONE', 'NONE', 'False', 'False']
+['9.07', 4, 'out of', 75, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '19:57', ' 0.5', '1.61', 'True', 'False']
+['9.30', 5, 'out of', 75, 'Nest-Sotra', 'Notodden', '0-0', '16:37', ' 0.5', '1.50', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['9.34', 0, 'out of', 74, 'Albacete', 'Atletico Baleares', '1-1', '107:40', 'NONE', 'NONE', 'False', 'False']
+['9.43', 1, 'out of', 74, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '43:52', ' 2.5', '1.28', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['9.49', 0, 'out of', 73, 'Albacete', 'Atletico Baleares', '1-1', '107:49', 'NONE', 'NONE', 'False', 'False']
+['9.59', 1, 'out of', 73, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '44:02', ' 2.5', '1.28', 'False', 'False']
+['9.69', 2, 'out of', 73, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['9.76', 3, 'out of', 73, 'ToTe', 'KäPa/Pule', '3-0', '67:39', 'NONE', 'NONE', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['9.81', 0, 'out of', 72, 'Albacete', 'Atletico Baleares', '1-1', '108:08', 'NONE', 'NONE', 'False', 'False']
+['9.91', 1, 'out of', 72, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '44:21', ' 2.5', '1.28', 'False', 'False']
+['10.02', 2, 'out of', 72, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['10.10', 3, 'out of', 72, 'ToTe', 'KäPa/Pule', '3-0', '67:59', ' 3.5', '1.50', 'False', 'False']
+['10.18', 4, 'out of', 72, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '21:04', ' 0.5', '1.72', 'True', 'False']
+['10.43', 5, 'out of', 72, 'Nest-Sotra', 'Notodden', '0-0', '17:44', ' 0.5', '1.53', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['10.48', 0, 'out of', 72, 'Albacete', 'Atletico Baleares', '1-1', '108:48', 'NONE', 'NONE', 'False', 'False']
+['10.59', 1, 'out of', 72, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:02', ' 2.5', '1.25', 'False', 'False']
+['10.69', 2, 'out of', 72, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['10.77', 3, 'out of', 72, 'ToTe', 'KäPa/Pule', '3-0', '68:39', ' 3.5', '1.50', 'False', 'False']
+['10.86', 4, 'out of', 72, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '21:44', ' 0.5', '1.72', 'True', 'False']
+['11.10', 5, 'out of', 72, 'Nest-Sotra', 'Notodden', '0-0', '18:24', ' 0.5', '1.53', 'True', 'False']
+['11.20', 6, 'out of', 72, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '18:18', ' 0.5', '1.40', 'True', 'False']
+['11.34', 7, 'out of', 72, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '1-1', '17:42', ' 2.5', '1.36', 'False', 'False']
+['11.44', 8, 'out of', 72, 'Högaborgs BK', 'Kungsbacka IF', '2-0', '19:41', ' 2.5', '1.44', 'False', 'False']
+['11.58', 9, 'out of', 72, 'IFK Lidingo U19', 'AIK U19', '0-1', '21:13', ' 1.5', '1.57', 'False', 'False']
+['11.71', 10, 'out of', 72, 'Army United', 'Prachuap FC', '2-1', '21:27', ' 3.5', '1.66', 'False', 'False']
+['11.85', 11, 'out of', 72, 'Chainat FC', 'Samut Songkhram', '1-1', '21:19', ' 2.5', '1.40', 'False', 'False']
+['11.94', 12, 'out of', 72, 'Kasetsart FC', 'Chiangmai', '2-2', '62:53', ' 4.5', '1.44', 'False', 'False']
+['12.04', 13, 'out of', 72, 'Forfar Farmington Development LFC Women', 'Buchan Women', '1-0', '17:00', 'NONE', 'NONE', 'False', 'False']
+['12.13', 14, 'out of', 72, 'AFC Leopards', 'Gor Mahia', '0-0', '16:00', 'NONE', 'NONE', 'False', 'False']
+['12.27', 15, 'out of', 72, 'Russia Women', 'Serbia Women', '0-0', '20:41', ' 0.5', '1.57', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: False  Equal Lists: True
+['12.32', 0, 'out of', 72, 'Albacete', 'Atletico Baleares', '1-1', '110:39', 'NONE', 'NONE', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['12.36', 0, 'out of', 71, 'Albacete', 'Atletico Baleares', '1-1', '110:42', 'NONE', 'NONE', 'False', 'False']
+['12.46', 1, 'out of', 71, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['12.51', 0, 'out of', 70, 'Albacete', 'Atletico Baleares', '1-1', '110:50', 'NONE', 'NONE', 'False', 'False']
+['12.61', 1, 'out of', 70, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['12.73', 2, 'out of', 70, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['12.80', 3, 'out of', 70, 'ToTe', 'KäPa/Pule', '3-0', '70:40', ' 3.5', '1.53', 'False', 'False']
+['12.90', 4, 'out of', 70, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '23:47', ' 0.5', '1.83', 'True', 'False']
+['13.18', 5, 'out of', 70, 'Nest-Sotra', 'Notodden', '0-0', '20:28', ' 0.5', '1.53', 'True', 'False']
+['13.28', 6, 'out of', 70, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '20:23', ' 0.5', '1.44', 'True', 'False']
+['13.43', 7, 'out of', 70, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '1-1', '19:46', ' 2.5', '1.44', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['13.48', 0, 'out of', 71, 'Albacete', 'Atletico Baleares', '1-1', '111:48', 'NONE', 'NONE', 'False', 'False']
+['13.59', 1, 'out of', 71, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.25', 'False', 'False']
+['13.71', 2, 'out of', 71, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['13.79', 3, 'out of', 71, 'ToTe', 'KäPa/Pule', '3-0', '71:40', ' 3.5', '1.57', 'False', 'False']
+['13.89', 4, 'out of', 71, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '24:45', ' 0.5', '1.90', 'True', 'False']
+['14.17', 5, 'out of', 71, 'Nest-Sotra', 'Notodden', '0-0', '21:26', ' 0.5', '1.57', 'True', 'False']
+['14.28', 6, 'out of', 71, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '21:23', ' 0.5', '1.50', 'True', 'False']
+['14.42', 7, 'out of', 71, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '1-1', '20:46', ' 2.5', '1.50', 'False', 'False']
+['14.52', 8, 'out of', 71, 'Högaborgs BK', 'Kungsbacka IF', '2-0', '22:45', ' 2.5', '1.53', 'False', 'False']
+['14.68', 9, 'out of', 71, 'IFK Lidingo U19', 'AIK U19', '0-2', '24:18', ' 2.5', '1.66', 'False', 'False']
+['14.85', 10, 'out of', 71, 'Army United', 'Prachuap FC', '2-1', '24:34', ' 3.5', '1.83', 'False', 'False']
+['15.02', 11, 'out of', 71, 'Chainat FC', 'Samut Songkhram', '1-1', '24:28', ' 2.5', '1.50', 'False', 'False']
+['15.12', 12, 'out of', 71, 'Kasetsart FC', 'Chiangmai', '2-2', '66:04', ' 4.5', '1.50', 'False', 'False']
+['15.21', 13, 'out of', 71, 'Forfar Farmington Development LFC Women', 'Buchan Women', '1-0', '20:11', ' 2.5', '2.37', 'False', 'False']
+['15.31', 14, 'out of', 71, 'AFC Leopards', 'Gor Mahia', '0-0', '19:10', ' 0.5', '2.20', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['15.37', 0, 'out of', 72, 'Albacete', 'Atletico Baleares', '1-1', '113:41', 'NONE', 'NONE', 'False', 'False']
+['15.48', 1, 'out of', 72, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['15.61', 2, 'out of', 72, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['15.70', 3, 'out of', 72, 'ToTe', 'KäPa/Pule', '3-0', '73:34', ' 3.5', '1.66', 'False', 'False']
+['15.81', 4, 'out of', 72, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '26:41', ' 0.5', '2.10', 'True', 'False']
+['16.11', 5, 'out of', 72, 'Nest-Sotra', 'Notodden', '0-0', '23:22', ' 0.5', '1.57', 'True', 'False']
+['16.22', 6, 'out of', 72, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-0', '23:19', ' 0.5', '1.57', 'True', 'False']
+['16.39', 7, 'out of', 72, 'Libertad Asuncion Reserves', 'Olimpia Asuncion Reserves', '1-1', '22:43', ' 2.5', '1.53', 'False', 'False']
+['16.50', 8, 'out of', 72, 'Högaborgs BK', 'Kungsbacka IF', '2-0', '24:43', 'NONE', 'NONE', 'False', 'False']
+['16.67', 9, 'out of', 72, 'IFK Lidingo U19', 'AIK U19', '0-2', '26:17', ' 2.5', '1.80', 'False', 'False']
+['16.84', 10, 'out of', 72, 'Army United', 'Prachuap FC', '2-1', '26:33', ' 3.5', '1.90', 'False', 'False']
+['17.00', 11, 'out of', 72, 'Chainat FC', 'Samut Songkhram', '1-1', '26:27', ' 3.5', '2.50', 'False', 'False']
+['17.11', 12, 'out of', 72, 'Kasetsart FC', 'Chiangmai', '2-2', '68:02', ' 4.5', '1.61', 'False', 'False']
+['17.21', 13, 'out of', 72, 'Forfar Farmington Development LFC Women', 'Buchan Women', '1-0', '22:10', ' 2.5', '2.62', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['17.27', 0, 'out of', 71, 'Albacete', 'Atletico Baleares', '1-1', '115:35', 'NONE', 'NONE', 'False', 'False']
+['17.38', 1, 'out of', 71, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['17.53', 2, 'out of', 71, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+BREAK 62
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['17.64', 0, 'out of', 71, 'Albacete', 'Atletico Baleares', '1-1', '115:58', 'NONE', 'NONE', 'False', 'False']
+['17.76', 1, 'out of', 71, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['17.90', 2, 'out of', 71, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['17.99', 3, 'out of', 71, 'ToTe', 'KäPa/Pule', '3-0', '75:51', ' 3.5', '1.90', 'False', 'False']
+['18.10', 4, 'out of', 71, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '28:58', ' 0.5', '2.25', 'True', 'False']
+['18.41', 5, 'out of', 71, 'Nest-Sotra', 'Notodden', '0-0', '25:39', ' 0.5', '1.72', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['18.46', 0, 'out of', 72, 'Albacete', 'Atletico Baleares', '1-1', '116:47', 'NONE', 'NONE', 'False', 'False']
+['18.59', 1, 'out of', 72, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['18.73', 2, 'out of', 72, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+BREAK 62
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['18.85', 0, 'out of', 72, 'Albacete', 'Atletico Baleares', '2-1', '117:11', 'NONE', 'NONE', 'False', 'False']
+['18.99', 1, 'out of', 72, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['19.14', 2, 'out of', 72, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['19.22', 3, 'out of', 72, 'ToTe', 'KäPa/Pule', '3-0', '77:06', ' 3.5', '1.83', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['19.27', 0, 'out of', 71, 'Albacete', 'Atletico Baleares', '2-1', '117:36', 'NONE', 'NONE', 'False', 'False']
+['19.40', 1, 'out of', 71, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['19.54', 2, 'out of', 71, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['19.59', 0, 'out of', 70, 'Albacete', 'Atletico Baleares', '2-1', '117:55', 'NONE', 'NONE', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['19.64', 0, 'out of', 71, 'Albacete', 'Atletico Baleares', '2-1', '117:58', 'NONE', 'NONE', 'False', 'False']
+['19.76', 1, 'out of', 71, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['19.91', 2, 'out of', 71, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:00', ' 0.5', '1.14', 'False', 'False']
+['20.00', 3, 'out of', 71, 'ToTe', 'KäPa/Pule', '3-0', '77:52', ' 3.5', '1.90', 'False', 'False']
+['20.13', 4, 'out of', 71, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '30:58', ' 0.5', '2.62', 'True', 'False']
+['20.49', 5, 'out of', 71, 'Nest-Sotra', 'Notodden', '0-0', '27:42', ' 0.5', '1.72', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['20.54', 0, 'out of', 70, 'Albacete', 'Atletico Baleares', '2-1', '118:52', 'NONE', 'NONE', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['20.58', 0, 'out of', 69, 'Albacete', 'Atletico Baleares', '2-1', '118:55', 'NONE', 'NONE', 'False', 'False']
+['20.71', 1, 'out of', 69, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['20.88', 2, 'out of', 69, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '45:54', ' 0.5', '1.16', 'False', 'False']
+['20.96', 3, 'out of', 69, 'ToTe', 'KäPa/Pule', '3-0', '78:51', ' 3.5', '2.20', 'False', 'False']
+['21.08', 4, 'out of', 69, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '31:56', ' 0.5', '2.62', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['21.12', 0, 'out of', 68, 'Albacete', 'Atletico Baleares', '2-1', '119:27', 'NONE', 'NONE', 'False', 'False']
+['21.25', 1, 'out of', 68, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['21.29', 0, 'out of', 68, 'Albacete', 'Atletico Baleares', '2-1', '119:38', 'NONE', 'NONE', 'False', 'False']
+['21.42', 1, 'out of', 68, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['21.59', 2, 'out of', 68, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '46:38', ' 0.5', '1.16', 'False', 'False']
+['21.67', 3, 'out of', 68, 'ToTe', 'KäPa/Pule', '3-0', '79:33', ' 3.5', '2.25', 'False', 'False']
+['21.80', 4, 'out of', 68, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '32:39', ' 0.5', '2.75', 'True', 'False']
+['22.18', 5, 'out of', 68, 'Nest-Sotra', 'Notodden', '0-0', '29:21', ' 0.5', '1.90', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['22.21', 0, 'out of', 69, 'Albacete', 'Atletico Baleares', '2-1', '120:34', 'NONE', 'NONE', 'False', 'False']
+['22.36', 1, 'out of', 69, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.30', 'False', 'False']
+['22.53', 2, 'out of', 69, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '47:33', ' 0.5', '1.16', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['22.57', 0, 'out of', 71, 'Albacete', 'Atletico Baleares', '2-1', '120:54', 'NONE', 'NONE', 'False', 'False']
+['22.70', 1, 'out of', 71, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.33', 'False', 'False']
+['22.88', 2, 'out of', 71, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '47:53', ' 0.5', '1.20', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['22.91', 0, 'out of', 70, 'Albacete', 'Atletico Baleares', '2-1', '121:15', 'NONE', 'NONE', 'False', 'False']
+['23.05', 1, 'out of', 70, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.33', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['23.08', 0, 'out of', 71, 'Albacete', 'Atletico Baleares', '2-1', '120:00', 'NONE', 'NONE', 'False', 'False']
+['23.23', 1, 'out of', 71, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.33', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['23.26', 0, 'out of', 70, 'Albacete', 'Atletico Baleares', '2-1', '120:00', 'NONE', 'NONE', 'False', 'False']
+['23.40', 1, 'out of', 70, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.33', 'False', 'False']
+['23.57', 2, 'out of', 70, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '48:35', ' 0.5', '1.16', 'False', 'False']
+['23.65', 3, 'out of', 70, 'ToTe', 'KäPa/Pule', '3-0', '81:31', ' 3.5', '2.50', 'False', 'False']
+['23.78', 4, 'out of', 70, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '34:37', ' 0.5', '3.00', 'True', 'False']
+['24.16', 5, 'out of', 70, 'Nest-Sotra', 'Notodden', '0-0', '31:20', ' 0.5', '2.20', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['24.33', 0, 'out of', 69, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['24.52', 1, 'out of', 69, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '49:31', ' 0.5', '1.16', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['24.68', 0, 'out of', 69, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['24.85', 1, 'out of', 69, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '49:52', ' 0.5', '1.20', 'True', 'False']
+['24.95', 2, 'out of', 69, 'ToTe', 'KäPa/Pule', '3-0', '82:48', ' 3.5', '2.62', 'False', 'False']
+['25.08', 3, 'out of', 69, 'HPS Women', 'PK Keski-Uusimaa Women', '0-0', '35:55', ' 0.5', '3.25', 'True', 'False']
+['25.50', 4, 'out of', 69, 'Nest-Sotra', 'Notodden', '0-0', '32:39', ' 0.5', '2.62', 'True', 'False']
+['25.64', 5, 'out of', 69, 'Cerro Porteno Asuncion Reserves', 'Guarani Asuncion Reserves', '0-1', '32:43', ' 1.5', '2.10', 'False', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['25.81', 0, 'out of', 70, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['25.98', 1, 'out of', 70, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '51:01', ' 0.5', '1.22', 'True', 'False']
+While loop restarted        ItemCounter: True  Len: True  Equal Lists: False
+['26.15', 0, 'out of', 71, 'Hangzhou Greentown', 'Shijiazhuang Ever Bright', '1-1', '45:00', ' 2.5', '1.28', 'False', 'False']
+['26.32', 1, 'out of', 71, 'Ringkøbing IF', 'Esbjerg 2', '0-0', '51:21', ' 0.5', '1.22', 'True', 'False']
+Traceback (most recent call last):
+  File "C:/Users/User/Desktop/BetController-master/main", line 172, in <module>
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 127, in clickThroughValidItems
+    loadOddData(originalGames[itemCounter],itemCounter,len(originalGames))
+  File "C:/Users/User/Desktop/BetController-master/main", line 75, in loadOddData
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 127, in clickThroughValidItems
+    loadOddData(originalGames[itemCounter],itemCounter,len(originalGames))
+  File "C:/Users/User/Desktop/BetController-master/main", line 75, in loadOddData
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 127, in clickThroughValidItems
+    loadOddData(originalGames[itemCounter],itemCounter,len(originalGames))
+  File "C:/Users/User/Desktop/BetController-master/main", line 75, in loadOddData
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 132, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 127, in clickThroughValidItems
+    loadOddData(originalGames[itemCounter],itemCounter,len(originalGames))
+  File "C:/Users/User/Desktop/BetController-master/main", line 67, in loadOddData
+    if (item.text.find(SEARCH_STRING1) != -1) or (item.text.find(SEARCH_STRING3) != -1):  # and  - WORKING
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 196, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <div class="gl-MarketGroup "> stale: either the element is no longer attached to the DOM or the page has been refreshed
+
+
+Process finished with exit code 1

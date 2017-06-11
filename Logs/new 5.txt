@@ -1,0 +1,51 @@
+C:\Python34\python.exe C:/Users/User/Desktop/BetController-master/main
+[0, 'Singapore', 'Chinese Taipei', '1-2', '89:51', ' 3.5', '7.00', 'False', 'False']
+[0, 'Berazategui', 'Defensores de Cambaceres', '0-0', '44:00', ' 1.5', '2.50', 'False', 'False']
+[0, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[0, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[0, 'Post SV', 'SC Mannswörth', '1-0', '45:58', ' 3.5', '2.37', 'False', 'False']
+[0, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[0, 'SV Wienerberger', 'Gersthofer SV', '4-1', '46:17', ' 6.5', '1.61', 'False', 'False']
+[0, 'Wattens 1B', 'SK Ebbs', '3-0', '59:58', ' 4.5', '1.72', 'False', 'False']
+[0, 'Olaria AC', 'Queimados RJ', '3-0', '84:36', ' 3.5', '2.50', 'False', 'False']
+[0, 'Fluminense U20', 'Botafogo U20', '2-1', '86:29', ' 3.5', '3.75', 'False', 'False']
+[0, 'Avarta', 'Marienlyst', '2-0', '90:25', 'NONE', 'NONE', 'False', 'False']
+[0, 'B93 Copenhagen', 'Kjellerup IF', '3-1', '94:40', 'NONE', 'NONE', 'False', 'False']
+[0, 'Kolding IF', 'Hvidovre IF', '6-0', '90:00', 'NONE', 'NONE', 'False', 'False']
+[0, 'Thisted FC', 'Greve', '1-1', '93:28', 'NONE', 'NONE', 'False', 'False']
+[0, 'Holbæk', 'Næsby', '3-2', '93:48', 'NONE', 'NONE', 'False', 'False']
+[0, 'VSK Arhus', 'HIK', '2-0', '91:42', 'NONE', 'NONE', 'False', 'False']
+[0, 'EIF', 'GrIFK', '1-0', '45:00', ' 2.5', '1.90', 'False', 'False']
+while loop restarted 
+[0, 'Singapore', 'Chinese Taipei', '1-2', '90:20', ' 3.5', '9.00', 'False', 'False']
+[0, 'Berazategui', 'Defensores de Cambaceres', '0-0', '44:29', ' 1.5', '2.50', 'False', 'False']
+[0, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+while loop restarted 
+[0, 'Singapore', 'Chinese Taipei', '1-2', '90:29', 'NONE', 'NONE', 'False', 'False']
+[0, 'Berazategui', 'Defensores de Cambaceres', '0-0', '44:37', ' 1.5', '2.50', 'False', 'False']
+[0, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[0, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[0, 'Post SV', 'SC Mannswörth', '1-0', '45:00', ' 3.5', '2.37', 'False', 'False']
+Traceback (most recent call last):
+  File "C:/Users/User/Desktop/BetController-master/main", line 171, in <module>
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 126, in clickThroughValidItems
+    loadOddData(originalGames[itemCounter])
+  File "C:/Users/User/Desktop/BetController-master/main", line 66, in loadOddData
+    if (item.text.find(SEARCH_STRING1) != -1) or (item.text.find(SEARCH_STRING3) != -1):  # and  - WORKING
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 196, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <div class="gl-MarketGroup "> stale: either the element is no longer attached to the DOM or the page has been refreshed
+
+
+Process finished with exit code 1

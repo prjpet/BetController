@@ -17,9 +17,9 @@ MaxDelay = 10         #Maximum time delay in seconds
 START_OFFSET = 225
 
 
+
 from LoadBrowser import LoadBrowser
 import random, time, pyautogui
-
 
 
 # When fail-safe mode is True, moving the mouse to the upper-left will raise a pyautogui.FailSafeException that can abort your program:
@@ -28,7 +28,7 @@ a = random.uniform(minDelay, MaxDelay)  # example of Random time delay
 
 #XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-def loadOddData(item1):
+def loadOddData(item1,current_i,max_i):
     splitText = item1.text.split("\n")
     if len(splitText) >= 4:
         Team1 = splitText[0]
@@ -47,6 +47,7 @@ def loadOddData(item1):
     global OverGoals
     global Winner
     global Bet_ON
+
 
     Odd05 = "NONE"
     OverGoals = "NONE"
@@ -85,11 +86,13 @@ def loadOddData(item1):
 
     #elif Score != "0-0" and Bet_ON==True:
         #Winner = True
-
+    BotTime=((time.time()-StartProgramTime)/60)
     # element_list with: CURRENT TIME.....TEAM 1.....TEAM 2.....SCORE.....TIME OF THE GAME.....OVER GOALS....ODD OVER.....BET ON.....WINNER
 
-    element_list = [Team1, Team2, Score, GameTime, OverGoals, Odd05, str(Bet_ON), str(Winner)]
+
+    element_list = ["%.2f" % BotTime, current_i,"out of",max_i, Team1, Team2, Score, GameTime, OverGoals, Odd05, str(Bet_ON), str(Winner)]
     print(element_list)
+
 
 
 #XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -99,7 +102,7 @@ def clickThroughValidItems(originalGames):
 
     itemCounter = 0
 
-    # ASSUMPTION: LIST IS VALID
+    # ASSUMPTION: LIST IS VALID Counter is not exceed and Sore lenght is 3 (as a normal football game) and lists haven't changed
     while len(originalGames) > itemCounter+1 and len(originalGames[itemCounter].text.split("\n")[2])==3 and originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
         # MOVE TO CORRECT POSITION:
         if originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
@@ -121,11 +124,11 @@ def clickThroughValidItems(originalGames):
         pyautogui.click(button='left')
 
         # LOAD DATA:
-        loadOddData(originalGames[itemCounter])
+        loadOddData(originalGames[itemCounter],itemCounter,len(originalGames))
 
         itemCounter += 1
 
-    print("while loop restarted ")
+    print("While loop restarted      ", " ItemCounter:", len(originalGames) > itemCounter+1 ," Len:", len(originalGames[itemCounter].text.split("\n")[2])==3 , " Equal Lists:", originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ") )
     clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
 
 
@@ -160,9 +163,15 @@ if __name__ == "__main__":
     #pyautogui.hotkey('alt', 'space')
     #pyautogui.hotkey('x')
     pyautogui.hotkey('win', 'right')
+    #used for debugging purpose
+    StartProgramTime =time.time()
+
 
     GamesList =LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ")
-    clickThroughValidItems(GamesList)
+    if GamesList!="":
+        clickThroughValidItems(GamesList)
+    else:
+        print("GameList is null")
 
 
 #XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

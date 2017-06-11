@@ -1,0 +1,114 @@
+C:\Python34\python.exe C:/Users/User/Desktop/BetController-master/main
+[0, 'Scotland', 'England', '2-2', '94:39', 'NONE', 'NONE', 'False', 'False']
+[0, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[0, 'Atletico Astorga', 'Tropezon', '3-0', '71:44', ' 3.5', '1.83', 'False', 'False']
+[0, 'Malaga B', 'SCR Pena Deportiva', '1-0', '68:52', ' 1.5', '1.72', 'False', 'False']
+while loop restarted 
+[0, 'Scotland', 'England', '2-2', '94:39', 'NONE', 'NONE', 'False', 'False']
+[0, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[0, 'Atletico Astorga', 'Tropezon', '3-0', '71:54', ' 3.5', '1.83', 'False', 'False']
+[0, 'Malaga B', 'SCR Pena Deportiva', '1-0', '69:02', ' 1.5', '1.72', 'False', 'False']
+[0, 'Naxara', 'Villarrobledo', '0-1', '71:59', ' 1.5', '1.90', 'False', 'False']
+while loop restarted 
+[0, 'Scotland', 'England', '2-2', '94:39', 'NONE', 'NONE', 'False', 'False']
+[0, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[0, 'Atletico Astorga', 'Tropezon', '3-0', '72:08', ' 3.5', '1.83', 'False', 'False']
+while loop restarted 
+[0, 'Scotland', 'England', '2-2', '94:39', 'NONE', 'NONE', 'False', 'False']
+[0, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[0, 'Atletico Astorga', 'Tropezon', '3-0', '72:16', ' 3.5', '1.83', 'False', 'False']
+[0, 'Malaga B', 'SCR Pena Deportiva', '1-0', '69:24', ' 1.5', '1.72', 'False', 'False']
+[0, 'Naxara', 'Villarrobledo', '0-1', '72:20', ' 1.5', '2.00', 'False', 'False']
+[0, 'Olímpic de Xativa', 'Unionistas de Salamanca CF', '0-0', '00:00', ' 0.5', '1.53', 'False', 'False']
+break on x
+while loop restarted 
+[0, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[0, 'Atletico Astorga', 'Tropezon', '3-0', '72:33', ' 3.5', '1.90', 'False', 'False']
+[1, 'Malaga B', 'SCR Pena Deportiva', '1-0', '69:42', ' 1.5', '1.72', 'False', 'False']
+[1, 'Naxara', 'Villarrobledo', '0-1', '72:39', ' 1.5', '2.00', 'False', 'False']
+[1, 'Olímpic de Xativa', 'Unionistas de Salamanca CF', '0-0', '00:00', ' 0.5', '1.53', 'False', 'False']
+[1, 'Rapido Bouzas', 'Villa Sta Brigida', '0-0', '71:54', ' 0.5', '2.00', 'True', 'False']
+[1, 'UD San Fernando', 'Ecija Balompie', '0-0', '27:53', ' 0.5', '2.62', 'True', 'False']
+[1, 'USM El Harrach', 'RC Relizane', '0-0', '91:29', 'NONE', 'NONE', 'False', 'False']
+[1, 'CA San Telmo', 'Deportivo Moron', '1-0', '85:08', ' 2.5', '15.00', 'False', 'False']
+[1, 'CA Atlanta Women', 'Boca Juniors Women', '0-0', '00:00', ' 1.5', '1.66', 'False', 'False']
+while loop restarted 
+[1, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[1, 'Atletico Astorga', 'Tropezon', '3-0', '73:08', 'NONE', 'NONE', 'False', 'False']
+[1, 'Malaga B', 'SCR Pena Deportiva', '1-0', '70:16', ' 1.5', '1.72', 'False', 'False']
+[1, 'Naxara', 'Villarrobledo', '0-1', '73:13', ' 1.5', '2.10', 'False', 'False']
+while loop restarted 
+[1, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[1, 'Atletico Astorga', 'Tropezon', '3-0', '73:22', 'NONE', 'NONE', 'False', 'False']
+[1, 'Malaga B', 'SCR Pena Deportiva', '1-0', '70:30', ' 1.5', '1.80', 'False', 'False']
+[1, 'Naxara', 'Villarrobledo', '0-1', '73:28', ' 1.5', '2.00', 'False', 'False']
+[1, 'Olímpic de Xativa', 'Unionistas de Salamanca CF', '0-0', '00:00', ' 0.5', '1.53', 'False', 'False']
+[1, 'Rapido Bouzas', 'Villa Sta Brigida', '0-0', '72:42', ' 0.5', '2.10', 'True', 'False']
+[2, 'UD San Fernando', 'Ecija Balompie', '1-0', '28:41', ' 1.5', '2.62', 'False', 'False']
+while loop restarted 
+[2, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[2, 'Atletico Astorga', 'Tropezon', '3-0', '73:48', 'NONE', 'NONE', 'False', 'False']
+[2, 'Malaga B', 'SCR Pena Deportiva', '1-0', '70:56', ' 1.5', '1.83', 'False', 'False']
+[2, 'Naxara', 'Villarrobledo', '0-1', '73:53', ' 1.5', '2.10', 'False', 'False']
+while loop restarted 
+[2, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+while loop restarted 
+[2, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[2, 'Atletico Astorga', 'Tropezon', '4-0', '74:08', ' 4.5', '1.80', 'False', 'False']
+[2, 'Malaga B', 'SCR Pena Deportiva', '1-0', '71:16', ' 1.5', '1.83', 'False', 'False']
+[2, 'Naxara', 'Villarrobledo', '0-1', '74:12', ' 1.5', '2.10', 'False', 'False']
+while loop restarted 
+[2, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[2, 'Atletico Astorga', 'Tropezon', '4-0', '74:22', ' 4.5', '1.83', 'False', 'False']
+[2, 'Malaga B', 'SCR Pena Deportiva', '1-0', '71:30', ' 1.5', '1.83', 'False', 'False']
+[2, 'Naxara', 'Villarrobledo', '0-1', '74:26', ' 1.5', '2.10', 'False', 'False']
+[2, 'Olímpic de Xativa', 'Unionistas de Salamanca CF', '0-0', '00:00', ' 0.5', '1.53', 'False', 'False']
+[3, 'Rapido Bouzas', 'Villa Sta Brigida', '0-0', '73:42', ' 0.5', '2.10', 'True', 'False']
+[3, 'UD San Fernando', 'Ecija Balompie', '1-0', '29:42', ' 1.5', '2.62', 'False', 'False']
+while loop restarted 
+[3, 'Barcelona B', 'FC Cartagena', '0-0', '45:00', ' 0.5', '1.28', 'False', 'False']
+[3, 'Atletico Astorga', 'Tropezon', '4-0', '74:48', ' 4.5', '1.83', 'False', 'False']
+BREAK 62
+Traceback (most recent call last):
+  File "C:/Users/User/Desktop/BetController-master/main", line 170, in <module>
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 130, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 125, in clickThroughValidItems
+    loadOddData(originalGames[itemCounter])
+  File "C:/Users/User/Desktop/BetController-master/main", line 73, in loadOddData
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 104, in clickThroughValidItems
+    while len(originalGames) > itemCounter+1 and len(originalGames[itemCounter].text.split("\n")[2])==3 and originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 196, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <div class="ipn-FixtureButton "> stale: either the element is no longer attached to the DOM or the page has been refreshed
+
+
+Process finished with exit code 1

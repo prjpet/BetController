@@ -1,0 +1,556 @@
+C:\Python34\python.exe C:/Users/User/Desktop/BetController-master/main
+[0, 'Singapore', 'Chinese Taipei', '1-2', '91:32', 'NONE', 'NONE', 'False', 'False']
+while loop restarted 
+[0, 'Singapore', 'Chinese Taipei', '1-2', '91:33', 'NONE', 'NONE', 'False', 'False']
+while loop restarted 
+[0, 'Singapore', 'Chinese Taipei', '1-2', '91:34', 'NONE', 'NONE', 'False', 'False']
+while loop restarted 
+[0, 'Singapore', 'Chinese Taipei', '1-2', '91:35', 'NONE', 'NONE', 'False', 'False']
+BREAK 62
+while loop restarted 
+[0, 'Singapore', 'Chinese Taipei', '1-2', '91:39', 'NONE', 'NONE', 'False', 'False']
+[0, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[0, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[0, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[0, 'Post SV', 'SC Mannswörth', '1-0', '45:00', ' 3.5', '2.37', 'False', 'False']
+[0, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[0, 'SV Wienerberger', 'Gersthofer SV', '4-1', '45:00', ' 6.5', '1.61', 'False', 'False']
+while loop restarted 
+[0, 'Singapore', 'Chinese Taipei', '1-2', '91:56', 'NONE', 'NONE', 'False', 'False']
+[0, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[0, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[0, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[0, 'Post SV', 'SC Mannswörth', '1-0', '45:00', ' 3.5', '2.37', 'False', 'False']
+[0, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[0, 'SV Wienerberger', 'Gersthofer SV', '4-1', '45:00', ' 6.5', '1.61', 'False', 'False']
+[0, 'Wattens 1B', 'SK Ebbs', '4-0', '62:02', ' 5.5', '1.83', 'False', 'False']
+[0, 'Olaria AC', 'Queimados RJ', '3-0', '86:40', ' 3.5', '3.00', 'False', 'False']
+[0, 'Fluminense U20', 'Botafogo U20', '2-1', '88:34', ' 3.5', '4.50', 'False', 'False']
+break on y
+while loop restarted 
+[0, 'Singapore', 'Chinese Taipei', '1-2', '92:18', 'NONE', 'NONE', 'False', 'False']
+[0, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[0, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[0, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+while loop restarted 
+[0, 'Singapore', 'Chinese Taipei', '1-2', '92:28', 'NONE', 'NONE', 'False', 'False']
+[1, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[1, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+while loop restarted 
+[1, 'Singapore', 'Chinese Taipei', '1-2', '92:35', 'NONE', 'NONE', 'False', 'False']
+[1, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[1, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[1, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+while loop restarted 
+[1, 'Singapore', 'Chinese Taipei', '1-2', '92:44', 'NONE', 'NONE', 'False', 'False']
+[1, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[1, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[1, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+while loop restarted 
+[1, 'Singapore', 'Chinese Taipei', '1-2', '92:54', 'NONE', 'NONE', 'False', 'False']
+while loop restarted 
+[1, 'Singapore', 'Chinese Taipei', '1-2', '92:56', 'NONE', 'NONE', 'False', 'False']
+[1, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[1, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[1, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+while loop restarted 
+[1, 'Singapore', 'Chinese Taipei', '1-2', '93:06', 'NONE', 'NONE', 'False', 'False']
+[1, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[1, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+while loop restarted 
+[1, 'Singapore', 'Chinese Taipei', '1-2', '93:14', 'NONE', 'NONE', 'False', 'False']
+[1, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[1, 'Singapore', 'Chinese Taipei', '1-2', '93:19', 'NONE', 'NONE', 'False', 'False']
+[1, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[1, 'Singapore', 'Chinese Taipei', '1-2', '93:24', 'NONE', 'NONE', 'False', 'False']
+while loop restarted 
+[1, 'Singapore', 'Chinese Taipei', '1-2', '93:25', 'NONE', 'NONE', 'False', 'False']
+[1, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '93:30', 'NONE', 'NONE', 'False', 'False']
+[2, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '93:35', 'NONE', 'NONE', 'False', 'False']
+[2, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '93:39', 'NONE', 'NONE', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '93:42', 'NONE', 'NONE', 'False', 'False']
+[2, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.62', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '93:47', 'NONE', 'NONE', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '93:48', 'NONE', 'NONE', 'False', 'False']
+[2, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '93:53', 'NONE', 'NONE', 'False', 'False']
+[2, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '93:58', 'NONE', 'NONE', 'False', 'False']
+[2, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[2, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[2, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[2, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '94:12', 'NONE', 'NONE', 'False', 'False']
+[2, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '94:17', 'NONE', 'NONE', 'False', 'False']
+[2, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[2, 'Singapore', 'Chinese Taipei', '1-2', '94:22', 'NONE', 'NONE', 'False', 'False']
+[2, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+[3, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[3, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[3, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+while loop restarted 
+[3, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[3, 'Singapore', 'Chinese Taipei', '1-2', '90:00', 'NONE', 'NONE', 'False', 'False']
+[3, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+[3, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+while loop restarted 
+[3, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+while loop restarted 
+[3, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[3, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.40', 'False', 'False']
+while loop restarted 
+[3, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+while loop restarted 
+[4, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[4, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.40', 'False', 'False']
+[4, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[4, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[4, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[4, 'Post SV', 'SC Mannswörth', '1-0', '45:00', ' 3.5', '2.37', 'False', 'False']
+[4, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[4, 'SV Wienerberger', 'Gersthofer SV', '4-1', '45:00', ' 6.5', '1.61', 'False', 'False']
+[4, 'USV 1960 Berndorf', 'FC Bergheim', '0-0', '00:00', ' 1.5', '2.00', 'False', 'False']
+while loop restarted 
+[4, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[4, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.40', 'False', 'False']
+[4, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+while loop restarted 
+[4, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+while loop restarted 
+[4, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+while loop restarted 
+[5, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[5, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.40', 'False', 'False']
+while loop restarted 
+[5, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[5, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.40', 'False', 'False']
+[5, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[5, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[5, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[5, 'Post SV', 'SC Mannswörth', '1-0', '45:00', ' 3.5', '2.37', 'False', 'False']
+[5, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[5, 'SV Wienerberger', 'Gersthofer SV', '4-1', '45:00', ' 6.5', '1.61', 'False', 'False']
+[5, 'USV 1960 Berndorf', 'FC Bergheim', '0-0', '00:00', ' 1.5', '2.00', 'False', 'False']
+[5, 'Wattens 1B', 'SK Ebbs', '4-0', '67:09', ' 5.5', '2.20', 'False', 'False']
+[5, 'FC Baranovichi', 'FC Lida', '0-0', '00:00', ' 0.5', '1.44', 'False', 'False']
+[5, 'FC Granit Mikashevichi', 'Smolevichi', '0-0', '00:00', ' 1.5', '2.62', 'False', 'False']
+[6, 'FC Orsha', 'Belshina Bobruisk', '0-0', '00:00', ' 0.5', '1.40', 'False', 'False']
+[6, 'FC Smorgon', 'FC Osipovichi', '0-0', '00:00', ' 1.5', '2.75', 'False', 'False']
+[6, 'Volna Pinsk', 'FK Lokomotiv Gomel', '0-0', '00:00', ' 1.5', '2.62', 'False', 'False']
+[6, 'Olaria AC', 'Queimados RJ', '3-1', '92:10', 'NONE', 'NONE', 'False', 'False']
+[6, 'Fluminense U20', 'Botafogo U20', '2-1', '94:02', 'NONE', 'NONE', 'False', 'False']
+[6, 'FK Mas Taborsko B', 'Stechovice', '0-0', '00:00', ' 1.5', '1.83', 'False', 'False']
+[6, 'HFK Olomouc', 'Slovacko II', '0-0', '00:00', ' 1.5', '2.37', 'False', 'False']
+[6, 'Banik Sous', 'Hostoun', '0-0', '00:00', ' 1.5', '2.37', 'False', 'False']
+[6, 'CSK Uhersky Brod', 'Slavicin', '0-0', '00:00', ' 1.5', '2.00', 'False', 'False']
+[6, 'FC Predni Kopanina', 'Dvur Kralove nad Labem', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[6, 'FK Ostrov', 'FC Viktoria Mar Lazne', '0-0', '00:00', ' 1.5', '2.37', 'False', 'False']
+[6, 'Sokol Zivanice', 'FK Pencin Turnov', '0-0', '00:00', ' 1.5', '2.00', 'False', 'False']
+[6, 'Hermanice', 'FC Irp Cesky Tesin', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[6, 'Nove Straseci', 'Mnichovohradistsky SK', '0-0', '00:00', ' 1.5', '2.20', 'False', 'False']
+[7, 'SK Celadna', 'SK Detmarovice', '0-0', '00:00', ' 1.5', '2.00', 'False', 'False']
+[7, 'SK Semily', 'Ceska Lipa', '0-0', '00:00', ' 1.5', '1.66', 'False', 'False']
+[7, 'Slovan Hradek N/N', 'Zelezny Brod', '0-0', '00:00', ' 1.5', '1.80', 'False', 'False']
+[7, 'VSK Aarhus 2', 'Randers II', '0-0', '00:00', ' 1.5', '1.90', 'False', 'False']
+[7, 'EIF', 'GrIFK', '1-0', '45:00', ' 2.5', '2.00', 'False', 'False']
+[7, 'FC Haka', 'KPV', '0-0', '45:00', ' 1.5', '2.10', 'False', 'False']
+[7, 'FF Jaro', 'AC Oulu', '0-1', '45:00', ' 2.5', '1.90', 'False', 'False']
+[7, 'TPS', 'IF Gnistan', '1-0', '45:00', ' 2.5', '1.72', 'False', 'False']
+[7, 'Great Olympics', 'Tema Youth', '0-0', '00:00', ' 0.5', '1.44', 'False', 'False']
+[7, 'IK Start', 'Strommen', '0-1', '72:20', ' 2.5', '3.50', 'False', 'False']
+[7, 'Brumunddal', 'Vålerenga 2', '0-0', '45:00', ' 1.5', '1.90', 'False', 'False']
+[7, 'Ham-Kam', 'Follo', '1-0', '45:00', ' 2.5', '1.83', 'False', 'False']
+while loop restarted 
+[8, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+while loop restarted 
+[8, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[8, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.44', 'False', 'False']
+[8, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[8, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '45:25', ' 2.5', '1.72', 'False', 'False']
+[8, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[8, 'Post SV', 'SC Mannswörth', '1-0', '45:00', ' 3.5', '2.37', 'False', 'False']
+[8, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '46:02', 'NONE', 'NONE', 'False', 'False']
+[8, 'SV Wienerberger', 'Gersthofer SV', '4-1', '45:00', ' 6.5', '1.61', 'False', 'False']
+[8, 'USV 1960 Berndorf', 'FC Bergheim', '0-0', '00:00', ' 1.5', '2.00', 'False', 'False']
+[8, 'Wattens 1B', 'SK Ebbs', '4-0', '70:03', ' 5.5', '2.50', 'False', 'False']
+[8, 'FC Baranovichi', 'FC Lida', '0-0', '00:00', ' 0.5', '1.44', 'False', 'False']
+while loop restarted 
+[8, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[9, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.44', 'False', 'False']
+[9, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[9, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '46:13', 'NONE', 'NONE', 'False', 'False']
+[9, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:00', ' 2.5', '1.53', 'False', 'False']
+[9, 'Post SV', 'SC Mannswörth', '1-0', '45:00', ' 3.5', '2.37', 'False', 'False']
+[9, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '46:51', ' 2.5', '1.57', 'False', 'False']
+[9, 'SV Wienerberger', 'Gersthofer SV', '4-1', '45:00', ' 6.5', '1.61', 'False', 'False']
+[9, 'USV 1960 Berndorf', 'FC Bergheim', '0-0', '00:00', ' 1.5', '2.00', 'False', 'False']
+[9, 'Wattens 1B', 'SK Ebbs', '4-0', '70:53', ' 5.5', '2.62', 'False', 'False']
+[9, 'FC Baranovichi', 'FC Lida', '0-0', '00:00', ' 0.5', '1.44', 'False', 'False']
+[9, 'FC Granit Mikashevichi', 'Smolevichi', '0-0', '00:00', ' 1.5', '2.62', 'False', 'False']
+[9, 'FC Orsha', 'Belshina Bobruisk', '0-0', '00:00', ' 0.5', '1.40', 'False', 'False']
+[9, 'FC Smorgon', 'FC Osipovichi', '0-0', '00:00', ' 1.5', '2.75', 'False', 'False']
+while loop restarted 
+break on y
+while loop restarted 
+[10, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[10, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.50', 'False', 'False']
+[10, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[10, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '47:19', 'NONE', 'NONE', 'False', 'False']
+[10, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '45:34', ' 2.5', '1.53', 'False', 'False']
+[10, 'Post SV', 'SC Mannswörth', '1-0', '45:14', ' 3.5', '2.37', 'False', 'False']
+[10, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '47:58', ' 2.5', '1.61', 'False', 'False']
+while loop restarted 
+[10, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+while loop restarted 
+[10, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[10, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.50', 'False', 'False']
+[11, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[11, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '48:05', 'NONE', 'NONE', 'False', 'False']
+[11, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '46:18', ' 2.5', '1.57', 'False', 'False']
+[11, 'Post SV', 'SC Mannswörth', '1-0', '45:59', ' 3.5', '2.37', 'False', 'False']
+[11, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '48:43', ' 2.5', '1.61', 'False', 'False']
+[11, 'SV Wienerberger', 'Gersthofer SV', '4-1', '45:06', ' 6.5', '1.61', 'False', 'False']
+[11, 'USV 1960 Berndorf', 'FC Bergheim', '0-0', '01:03', ' 1.5', '2.00', 'False', 'False']
+while loop restarted 
+[11, 'Renate U19', 'Livorno U19', '0-0', '00:00', ' 1.5', '2.50', 'False', 'False']
+[11, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.50', 'False', 'False']
+[11, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[11, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '48:49', ' 2.5', '1.83', 'False', 'False']
+[11, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '47:03', ' 2.5', '1.57', 'False', 'False']
+[11, 'Post SV', 'SC Mannswörth', '1-0', '46:43', ' 3.5', '2.50', 'False', 'False']
+[12, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '49:27', ' 2.5', '1.66', 'False', 'False']
+[12, 'SV Wienerberger', 'Gersthofer SV', '4-1', '45:52', 'NONE', 'NONE', 'False', 'False']
+[12, 'USV 1960 Berndorf', 'FC Bergheim', '0-0', '01:49', ' 1.5', '2.00', 'False', 'False']
+[12, 'Wattens 1B', 'SK Ebbs', '4-0', '73:30', ' 4.5', '1.44', 'False', 'False']
+[12, 'FC Baranovichi', 'FC Lida', '0-0', '01:07', ' 0.5', '1.44', 'False', 'False']
+[12, 'FC Granit Mikashevichi', 'Smolevichi', '0-0', '00:00', ' 0.5', '1.40', 'False', 'False']
+[12, 'FC Orsha', 'Belshina Bobruisk', '0-0', '00:50', ' 0.5', '1.40', 'False', 'False']
+[12, 'FC Smorgon', 'FC Osipovichi', '0-0', '00:25', ' 1.5', '2.75', 'False', 'False']
+[12, 'Volna Pinsk', 'FK Lokomotiv Gomel', '0-0', '00:47', ' 1.5', '2.62', 'False', 'False']
+[12, 'FK Mas Taborsko B', 'Stechovice', '0-0', '00:00', ' 1.5', '1.83', 'False', 'False']
+[12, 'HFK Olomouc', 'Slovacko II', '0-0', '00:00', ' 1.5', '2.37', 'False', 'False']
+[13, 'Banik Sous', 'Hostoun', '0-0', '00:00', ' 1.5', '2.37', 'False', 'False']
+[13, 'CSK Uhersky Brod', 'Slavicin', '0-0', '01:21', ' 1.5', '2.00', 'False', 'False']
+break on y
+while loop restarted 
+[13, 'Renate U19', 'Livorno U19', '0-0', '00:18', ' 1.5', '2.50', 'False', 'False']
+while loop restarted 
+[13, 'Renate U19', 'Livorno U19', '0-0', '00:29', ' 1.5', '2.50', 'False', 'False']
+[13, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:00', ' 0.5', '1.50', 'False', 'False']
+[13, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '00:00', ' 1.5', '2.25', 'False', 'False']
+[13, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '50:45', ' 2.5', '1.90', 'False', 'False']
+[13, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '49:00', ' 2.5', '1.61', 'False', 'False']
+[13, 'Post SV', 'SC Mannswörth', '1-0', '48:41', ' 2.5', '1.53', 'False', 'False']
+[13, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '51:26', ' 2.5', '1.72', 'False', 'False']
+[14, 'SV Wienerberger', 'Gersthofer SV', '4-1', '47:50', ' 6.5', '1.72', 'False', 'False']
+[14, 'USV 1960 Berndorf', 'FC Bergheim', '1-0', '03:48', ' 2.5', '2.10', 'False', 'False']
+[14, 'Wattens 1B', 'SK Ebbs', '4-0', '75:29', ' 4.5', '1.53', 'False', 'False']
+[14, 'FC Baranovichi', 'FC Lida', '0-0', '03:05', ' 0.5', '1.44', 'False', 'False']
+[14, 'FC Granit Mikashevichi', 'Smolevichi', '0-0', '01:04', ' 0.5', '1.44', 'False', 'False']
+[14, 'FC Orsha', 'Belshina Bobruisk', '0-0', '02:51', ' 0.5', '1.40', 'False', 'False']
+[14, 'FC Smorgon', 'FC Osipovichi', '0-0', '02:26', ' 0.5', '1.40', 'False', 'False']
+[14, 'Volna Pinsk', 'FK Lokomotiv Gomel', '0-0', '02:48', ' 1.5', '2.50', 'False', 'False']
+[14, 'FK Mas Taborsko B', 'Stechovice', '0-0', '00:00', ' 1.5', '1.83', 'False', 'False']
+[14, 'HFK Olomouc', 'Slovacko II', '0-0', '00:01', ' 1.5', '2.37', 'False', 'False']
+[15, 'Banik Sous', 'Hostoun', '0-0', '00:00', 'NONE', 'NONE', 'False', 'False']
+[15, 'CSK Uhersky Brod', 'Slavicin', '0-0', '03:25', ' 1.5', '2.10', 'False', 'False']
+[15, 'FC Predni Kopanina', 'Dvur Kralove nad Labem', '0-0', '01:24', ' 1.5', '2.25', 'False', 'False']
+[15, 'FK Ostrov', 'FC Viktoria Mar Lazne', '0-0', '03:12', ' 1.5', '2.50', 'False', 'False']
+[15, 'Sokol Zivanice', 'FK Pencin Turnov', '0-0', '00:00', 'NONE', 'NONE', 'False', 'False']
+[15, 'Hermanice', 'FC Irp Cesky Tesin', '0-0', '01:24', ' 1.5', '2.37', 'False', 'False']
+[15, 'Nove Straseci', 'Mnichovohradistsky SK', '0-0', '05:19', ' 1.5', '2.50', 'False', 'False']
+[15, 'SK Celadna', 'SK Detmarovice', '0-0', '03:14', ' 1.5', '2.00', 'False', 'False']
+[15, 'SK Semily', 'Ceska Lipa', '0-0', '02:52', ' 1.5', '1.72', 'False', 'False']
+[16, 'Slovan Hradek N/N', 'Zelezny Brod', '0-0', '03:22', ' 1.5', '1.83', 'False', 'False']
+[16, 'VSK Aarhus 2', 'Randers II', '0-0', '06:30', ' 1.5', '2.20', 'False', 'False']
+[16, 'EIF', 'GrIFK', '1-0', '49:43', ' 2.5', '2.10', 'False', 'False']
+while loop restarted 
+[16, 'Renate U19', 'Livorno U19', '0-0', '03:28', ' 1.5', '2.50', 'False', 'False']
+[16, 'Berazategui', 'Defensores de Cambaceres', '0-0', '45:18', ' 0.5', '1.50', 'False', 'False']
+[16, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '03:01', ' 1.5', '2.37', 'False', 'False']
+[16, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '53:47', ' 2.5', '2.10', 'False', 'False']
+[16, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '52:01', ' 2.5', '1.72', 'False', 'False']
+[16, 'Post SV', 'SC Mannswörth', '1-0', '51:41', ' 2.5', '1.66', 'False', 'False']
+[16, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '54:28', ' 2.5', '1.83', 'False', 'False']
+[17, 'SV Wienerberger', 'Gersthofer SV', '4-1', '50:52', ' 6.5', '1.83', 'False', 'False']
+[17, 'USV 1960 Berndorf', 'FC Bergheim', '1-0', '06:49', ' 2.5', '2.25', 'False', 'False']
+[17, 'Wattens 1B', 'SK Ebbs', '4-0', '78:31', ' 4.5', '1.72', 'False', 'False']
+[17, 'FC Baranovichi', 'FC Lida', '0-0', '06:08', ' 0.5', '1.53', 'False', 'False']
+[17, 'FC Granit Mikashevichi', 'Smolevichi', '0-0', '04:06', ' 0.5', '1.44', 'False', 'False']
+[17, 'FC Orsha', 'Belshina Bobruisk', '0-0', '05:53', ' 0.5', '1.40', 'False', 'False']
+[17, 'FC Smorgon', 'FC Osipovichi', '0-0', '05:29', ' 0.5', '1.44', 'False', 'False']
+while loop restarted 
+[17, 'Renate U19', 'Livorno U19', '0-0', '04:53', ' 1.5', '2.62', 'False', 'False']
+[18, 'Berazategui', 'Defensores de Cambaceres', '0-0', '46:43', ' 0.5', '1.50', 'False', 'False']
+[18, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '04:27', ' 1.5', '2.50', 'False', 'False']
+[18, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '55:12', ' 2.5', '2.10', 'False', 'False']
+[18, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '53:28', ' 2.5', '1.80', 'False', 'False']
+[18, 'Post SV', 'SC Mannswörth', '1-0', '53:08', ' 2.5', '1.72', 'False', 'False']
+[18, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '55:54', ' 2.5', '1.83', 'False', 'False']
+break on x
+while loop restarted 
+[18, 'Renate U19', 'Livorno U19', '0-0', '05:38', ' 0.5', '1.36', 'False', 'False']
+[18, 'Berazategui', 'Defensores de Cambaceres', '0-0', '47:28', ' 0.5', '1.50', 'False', 'False']
+[18, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '05:11', ' 1.5', '2.50', 'False', 'False']
+[18, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '55:57', ' 2.5', '2.20', 'False', 'False']
+[19, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '54:12', ' 2.5', '1.83', 'False', 'False']
+[19, 'Post SV', 'SC Mannswörth', '1-0', '53:53', ' 2.5', '1.72', 'False', 'False']
+while loop restarted 
+[19, 'Renate U19', 'Livorno U19', '0-0', '06:18', ' 0.5', '1.36', 'False', 'False']
+[19, 'Berazategui', 'Defensores de Cambaceres', '0-0', '48:08', ' 0.5', '1.50', 'False', 'False']
+[19, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '05:51', ' 1.5', '2.62', 'False', 'False']
+[19, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '56:37', ' 2.5', '2.25', 'False', 'False']
+[19, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '54:52', ' 2.5', '1.83', 'False', 'False']
+[19, 'Post SV', 'SC Mannswörth', '1-0', '54:34', ' 2.5', '1.72', 'False', 'False']
+[19, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '57:19', ' 2.5', '1.90', 'False', 'False']
+[19, 'SV Wienerberger', 'Gersthofer SV', '4-1', '53:44', ' 6.5', '1.90', 'False', 'False']
+[20, 'USV 1960 Berndorf', 'FC Bergheim', '1-0', '09:41', ' 2.5', '2.50', 'False', 'False']
+[20, 'Wattens 1B', 'SK Ebbs', '4-0', '81:25', ' 4.5', '2.00', 'False', 'False']
+[20, 'FC Baranovichi', 'FC Lida', '0-0', '09:01', ' 0.5', '1.50', 'False', 'False']
+[20, 'FC Granit Mikashevichi', 'Smolevichi', '0-0', '06:59', ' 0.5', '1.53', 'False', 'False']
+[20, 'FC Orsha', 'Belshina Bobruisk', '0-0', '08:49', ' 0.5', '1.50', 'False', 'False']
+[20, 'FC Smorgon', 'FC Osipovichi', '0-0', '08:25', ' 0.5', '1.53', 'False', 'False']
+while loop restarted 
+[20, 'Renate U19', 'Livorno U19', '0-0', '07:49', ' 0.5', '1.40', 'False', 'False']
+[20, 'Berazategui', 'Defensores de Cambaceres', '0-0', '49:41', ' 0.5', '1.50', 'True', 'False']
+[21, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '07:24', ' 1.5', '2.62', 'False', 'False']
+while loop restarted 
+[21, 'Renate U19', 'Livorno U19', '0-0', '08:20', ' 0.5', '1.40', 'False', 'False']
+[21, 'Berazategui', 'Defensores de Cambaceres', '0-0', '50:11', ' 0.5', '1.53', 'True', 'False']
+[21, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '07:55', ' 1.5', '2.62', 'False', 'False']
+[21, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '58:42', ' 2.5', '2.37', 'False', 'False']
+[21, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '56:56', ' 2.5', '1.90', 'False', 'False']
+[21, 'Post SV', 'SC Mannswörth', '1-0', '56:38', ' 2.5', '1.83', 'False', 'False']
+while loop restarted 
+[22, 'Renate U19', 'Livorno U19', '0-0', '09:05', ' 0.5', '1.44', 'False', 'False']
+break on y
+while loop restarted 
+[22, 'Renate U19', 'Livorno U19', '0-0', '09:21', ' 0.5', '1.44', 'False', 'False']
+[22, 'Berazategui', 'Defensores de Cambaceres', '0-0', '51:12', ' 0.5', '1.53', 'True', 'False']
+[22, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '08:56', ' 1.5', '2.75', 'False', 'False']
+[22, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '59:42', ' 2.5', '2.50', 'False', 'False']
+[22, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '57:58', ' 2.5', '2.00', 'False', 'False']
+while loop restarted 
+[23, 'Renate U19', 'Livorno U19', '0-0', '10:00', ' 0.5', '1.40', 'False', 'False']
+[23, 'Berazategui', 'Defensores de Cambaceres', '0-0', '51:52', ' 0.5', '1.57', 'True', 'False']
+[23, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '09:35', ' 0.5', '1.40', 'False', 'False']
+while loop restarted 
+[23, 'Renate U19', 'Livorno U19', '0-0', '10:31', ' 0.5', '1.44', 'False', 'False']
+[23, 'Berazategui', 'Defensores de Cambaceres', '0-0', '52:24', ' 0.5', '1.53', 'True', 'False']
+[23, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '10:08', ' 0.5', '1.44', 'False', 'False']
+while loop restarted 
+[24, 'Renate U19', 'Livorno U19', '0-0', '11:04', ' 0.5', '1.44', 'True', 'False']
+[24, 'Berazategui', 'Defensores de Cambaceres', '0-0', '52:57', ' 0.5', '1.57', 'True', 'False']
+[24, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '10:41', ' 0.5', '1.44', 'False', 'False']
+while loop restarted 
+[24, 'Renate U19', 'Livorno U19', '0-0', '11:37', ' 0.5', '1.44', 'True', 'False']
+[24, 'Berazategui', 'Defensores de Cambaceres', '0-0', '53:29', ' 0.5', '1.57', 'True', 'False']
+[24, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '11:12', ' 0.5', '1.44', 'True', 'False']
+[25, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '62:01', ' 2.5', '2.62', 'False', 'False']
+[25, 'Ostbahn XI', 'Sportunion Mauer', '0-1', '60:16', ' 2.5', '2.10', 'False', 'False']
+[25, 'Post SV', 'SC Mannswörth', '1-0', '59:57', ' 2.5', '2.00', 'False', 'False']
+[25, 'Simmeringer SC', 'SC Wiener Viktoria', '0-1', '62:43', ' 2.5', '2.25', 'False', 'False']
+[25, 'SV Wienerberger', 'Gersthofer SV', '4-1', '59:08', ' 6.5', '2.25', 'False', 'False']
+[25, 'USV 1960 Berndorf', 'FC Bergheim', '1-0', '15:06', ' 1.5', '1.44', 'False', 'False']
+[25, 'Wattens 1B', 'SK Ebbs', '4-0', '86:50', ' 4.5', '3.40', 'False', 'False']
+[25, 'FC Baranovichi', 'FC Lida', '0-1', '14:26', ' 1.5', '1.72', 'False', 'False']
+while loop restarted 
+[25, 'Renate U19', 'Livorno U19', '0-0', '12:53', ' 0.5', '1.53', 'True', 'False']
+while loop restarted 
+[26, 'Renate U19', 'Livorno U19', '0-0', '13:09', ' 0.5', '1.53', 'True', 'False']
+while loop restarted 
+[26, 'England U18', 'Ivory Coast U20', '0-0', '00:00', ' 0.5', '1.50', 'False', 'False']
+[26, 'Renate U19', 'Livorno U19', '0-0', '13:51', ' 0.5', '1.53', 'True', 'False']
+[27, 'Berazategui', 'Defensores de Cambaceres', '0-0', '55:44', 'NONE', 'NONE', 'False', 'False']
+[27, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '13:29', ' 0.5', '1.50', 'True', 'False']
+[27, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '64:17', ' 1.5', '1.40', 'False', 'False']
+while loop restarted 
+[27, 'England U18', 'Ivory Coast U20', '0-0', '00:00', ' 0.5', '1.50', 'False', 'False']
+while loop restarted 
+[28, 'England U18', 'Ivory Coast U20', '0-0', '00:00', ' 0.5', '1.50', 'False', 'False']
+[28, 'Renate U19', 'Livorno U19', '0-0', '15:21', ' 0.5', '1.57', 'True', 'False']
+[28, 'Berazategui', 'Defensores de Cambaceres', '0-1', '57:17', ' 1.5', '1.61', 'False', 'False']
+[28, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '15:00', ' 0.5', '1.53', 'True', 'False']
+[28, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '65:48', ' 1.5', '1.44', 'False', 'False']
+while loop restarted 
+[29, 'England U18', 'Ivory Coast U20', '0-0', '00:00', ' 0.5', '1.50', 'False', 'False']
+[29, 'Renate U19', 'Livorno U19', '0-0', '16:30', ' 0.5', '1.61', 'True', 'False']
+[29, 'Berazategui', 'Defensores de Cambaceres', '0-1', '58:23', ' 1.5', '1.61', 'False', 'False']
+[29, 'ASK Horitschon', 'SC Pinkafeld', '0-0', '16:09', ' 0.5', '1.57', 'True', 'False']
+[29, 'ISS Admira', 'SV Gerasdorf Stammersdorf', '1-0', '66:57', ' 1.5', '1.50', 'False', 'False']
+BREAK 62
+Traceback (most recent call last):
+  File "C:/Users/User/Desktop/BetController-master/main", line 171, in <module>
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 126, in clickThroughValidItems
+    loadOddData(originalGames[itemCounter])
+  File "C:/Users/User/Desktop/BetController-master/main", line 74, in loadOddData
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 131, in clickThroughValidItems
+    clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+  File "C:/Users/User/Desktop/BetController-master/main", line 126, in clickThroughValidItems
+    loadOddData(originalGames[itemCounter])
+  File "C:/Users/User/Desktop/BetController-master/main", line 74, in loadOddData
+    clickThroughValidItems(GamesList)
+  File "C:/Users/User/Desktop/BetController-master/main", line 105, in clickThroughValidItems
+    while len(originalGames) > itemCounter+1 and len(originalGames[itemCounter].text.split("\n")[2])==3 and originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 196, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <div class="ipn-FixtureButton "> stale: either the element is no longer attached to the DOM or the page has been refreshed
+
+
+Process finished with exit code 1
