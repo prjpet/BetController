@@ -1,18 +1,22 @@
 # USER VARIABLES
 
 # First HALF XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXx
-StartTime1 = "10"  # First minute that is permited to bet on FIRST half
-EndTime1 = "45"  # Last minute that is permiteted to bet on FIRST half
+StartTime1 = 5 # First minute that is permited to bet on FIRST half
+EndTime1 = 45  # Last minute that is permiteted to bet on FIRST half
 MinValOdd1 = "1.2"  # Minimum value for the odd that is permited to bet on FIRST half
 
 # Second HALF XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXx
-StartTime2 = "48"  # First minute that is permited to bet on SECOND half
-EndTime2 = "85"  # Last minute that is permiteted to bet on SECOND half
+StartTime2 = 48  # First minute that is permited to bet on SECOND half
+EndTime2 = 85  # Last minute that is permiteted to bet on SECOND half
 MinValOdd2 = "1.2"  # Minimum value for the odd that is permited to bet on SECOND half
 
 minDelay = 4  # Minumum time delay in seconds
 MaxDelay = 10  # Maximum time delay in seconds
 START_OFFSET = 225
+
+global Debug, Debug2
+Debug=False
+Debug2=True
 
 from LoadBrowser import LoadBrowser
 import random, time, pyautogui, gc
@@ -31,30 +35,32 @@ def loadOddData(item1, current_i, max_i):
     :param current_i: 
     :param max_i: 
     """
-    print("1")
+    if Debug==True: print("1")
     splitText = item1.text.split("\n")
-    print("2")
+    if Debug==True: print("2")
     if len(splitText) >= 4:
-        print("3")
+        if Debug==True: print("3")
         Team1 = splitText[0]
         Team2 = splitText[1]
         Score = splitText[2]
         GameTime = splitText[3]
-        # print("splitText")
+        #if Debug==True: print(splitText[0],splitText[1],splitText[2],splitText[3])
     # only for security of not BREAKING the coce use the following : - ONLY FOR     P.R.J.
     else:
-        print("4")
+        if Debug==True: print("4")
         Team1 = "NONE"
         Team2 = "NONE"
         Score = "NONE"
         GameTime = "NONE"
 
-    global Odd05
+    global Odd05_first_half
+    global Odd05_second_half
     global OverGoals
     global Winner
     global Bet_ON
 
-    Odd05 = "NONE"
+    Odd05_first_half = "NONE"
+    Odd05_second_half = "NONE"
     OverGoals = "NONE"
     Winner = False
     Bet_ON = False
@@ -66,54 +72,66 @@ def loadOddData(item1, current_i, max_i):
 
     # MARKET_GROUP is the full list of odds
     ListOfOdds = LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup")
-    print("5")
+    if Debug==True: print("5")
+
     try:
-        for i, item in enumerate(ListOfOdds):
-            print("6")
-            # print(i,": " + item.text)
-            if ListOfOdds == LoadBrowser.locateElementsByClassAndLoad(
-                    "gl-MarketGroup"):  # if the list has been changed, then reload
-                print("7")  # ERROR HERE
-                if (item.text.find(SEARCH_STRING1) != -1) or (
-                            item.text.find(SEARCH_STRING3) != -1):  # and  - WORKING
-                    print("8")
+            # Search for First Half Odds
+        if StartTime1 < int(GameTime[:2]) < EndTime1:  # if the list has been changed, then reload
+            for i, item in enumerate(ListOfOdds):
+                #if Debug==True: print(i, ": " + item.text)
+                if Debug==True: print("8.1")
+                if ListOfOdds == LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup") and (item.text.find(SEARCH_STRING1) != -1):
                     FHG_list = item.text.split("\n")
-                    print("9")
+                    if Debug==True: print("9.1")
                     # check if Over value is a float value- error in case that odds are blocked/modified
                     if FHG_list[FHG_list.index(SEARCH_STRING2) + 1] != "Under":
-                        print("10")
-                        Odd05 = FHG_list[FHG_list.index(SEARCH_STRING2) + 1]
+                        if Debug==True: print("10.1")
+                        Odd05_first_half = FHG_list[FHG_list.index(SEARCH_STRING2) + 1]
                         OverGoals = (FHG_list[1])
                         break
-            else:
-                print("ERROR 62")
-                time.sleep(10)
-                break
+
+                # Search for Second Half Odds
+        if StartTime2 < int(GameTime[:2]) < EndTime2 :
+            for i, item in enumerate(ListOfOdds):
+                # if Debug==True: print(i, ": " + item.text)
+                if Debug==True: print("8.2")
+                if ListOfOdds == LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup") and (item.text.find(SEARCH_STRING3) != -1):
+                    FHG_list = item.text.split("\n")
+                    if Debug==True: print("9.2")
+                    # check if Over value is a float value- error in case that odds are blocked/modified
+                    if FHG_list[FHG_list.index(SEARCH_STRING2) + 1] != "Under":
+                        if Debug==True: print("10.2")
+                        Odd05_second_half = FHG_list[FHG_list.index(SEARCH_STRING2) + 1]
+                        OverGoals = (FHG_list[1])
+                        break
 
     except ValueError:
-        print("ERROR 11")
+        if Debug2==True: print("ERROR 11")
 
     # Validate for bet_on for FIRST HALF
-    if Score == "0-0" and StartTime1 < GameTime[:2] < EndTime1 and OverGoals == " 0.5" and MinValOdd1 < Odd05:
-        print("11")
+    if Score == "0-0" and StartTime1 < int(GameTime[:2]) < EndTime1 and OverGoals == " 0.5" and MinValOdd1 < Odd05_first_half:
+        if Debug==True: print("11")
         Winner = False
         Bet_ON = True
     # Validate for bet_on for SECOND HALF
-    if Score == "0-0" and StartTime2 < GameTime[:2] < EndTime2 and OverGoals == " 0.5" and MinValOdd2 < Odd05:
-        print("12")
+    if Score == "0-0" and StartTime2 < int(GameTime[:2]) < EndTime2 and OverGoals == " 0.5" and MinValOdd2 < Odd05_second_half:
+        if Debug==True: print("12")
         Winner = False
         Bet_ON = True
+
+    if Odd05_second_half == "NONE":Odd05 = Odd05_first_half
+    else:Odd05= Odd05_second_half
 
         # elif Score != "0-0" and Bet_ON==True:
         # Winner = True
     BotTime = ((time.time() - StartProgramTime) / 60)
-    print("13")
+    if Debug==True: print("13")
     # element_list with: CURRENT TIME.....TEAM 1.....TEAM 2.....SCORE.....TIME OF THE GAME.....OVER GOALS....ODD OVER.....BET ON.....WINNER
 
 
     element_list = ["%.2f" % BotTime, current_i, "out of", max_i, Team1, Team2, Score, GameTime, OverGoals, Odd05,
                     str(Bet_ON), str(Winner)]
-    print("14")
+    if Debug==True: print("14")
     print(element_list)
     gc.collect() #garbage collect- clear memory
 
@@ -165,11 +183,11 @@ if __name__ == "__main__":
     while True:
         originalGames = LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ")
         if originalGames != "":
-            print(22)
+            if Debug==True: print(22)
             global Restart
             Restart=True
             while Restart==True:
-                print(15 + 2)
+                if Debug==True: print(15 + 2)
                 itemCounter = 0
 
 
@@ -180,21 +198,21 @@ if __name__ == "__main__":
                             len(originalGames[itemCounter].text.split("\n")[2]) == 3 and\
                             originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
                         # MOVE TO CORRECT POSITION:
-                        print("16")
+                        if Debug==True: print("16")
                         if originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
-                            print("17")
+                            if Debug==True: print("17")
                             moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + \
                                       pyautogui.size()[
                                           0] / 2 + 100  # int(originalGames[itemCounter].size["width"]/2)
                         else:
-                            print("break on x")
+                            if Debug2==True: print("break on x")
                             break
                         if originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
-                            print("18")
+                            if Debug==True: print("18")
                             moveToY = originalGames[itemCounter].location_once_scrolled_into_view[
                                           'y'] + 120  # int(originalGames[itemCounter].size["height"])
                         else:
-                            print("break on y")
+                            if Debug2==True: print("break on y")
                             break
 
                         # pyautogui.alert(text=originalGames[itemCounter].size["height"], title='', button='OK')
@@ -203,11 +221,11 @@ if __name__ == "__main__":
 
                         # CLICK:
                         pyautogui.click(button='left')
-                        print("19")
+                        if Debug==True: print("19")
 
                         # LOAD DATA:
                         loadOddData(originalGames[itemCounter], itemCounter, len(originalGames))
-                        print("20")
+                        if Debug==True: print("20")
 
                         itemCounter += 1
                     try:
@@ -216,16 +234,16 @@ if __name__ == "__main__":
                           len(originalGames[itemCounter].text.split("\n")[2]) == 3, " Equal Lists:",
                           originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
                     except:
-                        print("While loop restarted      ")
+                        if Debug2==True: print("While loop restarted      ")
                         pass
                     break
                 except:
-                    print("While loop encounted some error, loop restarted")
+                    if Debug2==True: print("While loop encounted some error, loop restarted")
                     pass
                 # clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
 
     else:
-        print("GameList is null")
+        if Debug2==True: print("GameList is null")
 
 
 
