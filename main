@@ -19,11 +19,30 @@ Debug=False
 Debug2=True
 
 from LoadBrowser import LoadBrowser
-import random, time, pyautogui, gc
+import random, time, pyautogui, gc, datetime
+
 
 # When fail-safe mode is True, moving the mouse to the upper-left will raise a pyautogui.FailSafeException that can abort your program:
 pyautogui.FAILSAFE = True
 a = random.uniform(minDelay, MaxDelay)  # example of Random time delay
+
+#GLOBAL VARIAVLES
+Bet_ON_List=[]
+
+
+
+
+# XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+def Print_to_List(File,What_to_print, win_or_loose):
+    File1 = File +'_'+ str(datetime.datetime.now().strftime("%d_%m_%Y")) + '.txt'
+    with open(File1, 'a') as file:
+        file.write(str(What_to_print))
+        file.write(str(win_or_loose))
+        file.write('\n')
+        file.close()
+
+
 
 
 # XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -53,17 +72,22 @@ def loadOddData(item1, current_i, max_i):
         Score = "NONE"
         GameTime = "NONE"
 
+
     global Odd05_first_half
     global Odd05_second_half
     global OverGoals
     global Winner
     global Bet_ON
+    global Bet_ON_List
+    global Item_Found
+    global Half
 
     Odd05_first_half = "NONE"
     Odd05_second_half = "NONE"
     OverGoals = "NONE"
-    Winner = False
+    Winner = "NONE"
     Bet_ON = False
+    Half = "NONE"
 
     # LOOK FOR FIRST HALF GOALS
     SEARCH_STRING1 = "First Half Goals"
@@ -76,7 +100,7 @@ def loadOddData(item1, current_i, max_i):
 
     try:
             # Search for First Half Odds
-        if StartTime1 < int(GameTime[:2]) < EndTime1:  # if the list has been changed, then reload
+        if StartTime1 < int(GameTime[:2]) < EndTime1 and Score =="0-0":
             for i, item in enumerate(ListOfOdds):
                 #if Debug==True: print(i, ": " + item.text)
                 if Debug==True: print("8.1")
@@ -91,7 +115,7 @@ def loadOddData(item1, current_i, max_i):
                         break
 
                 # Search for Second Half Odds
-        if StartTime2 < int(GameTime[:2]) < EndTime2 :
+        if StartTime2 < int(GameTime[:2]) < EndTime2 and Score =="0-0":
             for i, item in enumerate(ListOfOdds):
                 # if Debug==True: print(i, ": " + item.text)
                 if Debug==True: print("8.2")
@@ -106,18 +130,18 @@ def loadOddData(item1, current_i, max_i):
                         break
 
     except ValueError:
-        if Debug2==True: print("ERROR 11")
+        if Debug2==True: print("|")
 
     # Validate for bet_on for FIRST HALF
     if Score == "0-0" and StartTime1 < int(GameTime[:2]) < EndTime1 and OverGoals == " 0.5" and MinValOdd1 < Odd05_first_half:
         if Debug==True: print("11")
-        Winner = False
         Bet_ON = True
+        Half="First"
     # Validate for bet_on for SECOND HALF
     if Score == "0-0" and StartTime2 < int(GameTime[:2]) < EndTime2 and OverGoals == " 0.5" and MinValOdd2 < Odd05_second_half:
         if Debug==True: print("12")
-        Winner = False
         Bet_ON = True
+        Half="Second"
 
     if Odd05_second_half == "NONE":Odd05 = Odd05_first_half
     else:Odd05= Odd05_second_half
@@ -126,14 +150,78 @@ def loadOddData(item1, current_i, max_i):
         # Winner = True
     BotTime = ((time.time() - StartProgramTime) / 60)
     if Debug==True: print("13")
-    # element_list with: CURRENT TIME.....TEAM 1.....TEAM 2.....SCORE.....TIME OF THE GAME.....OVER GOALS....ODD OVER.....BET ON.....WINNER
+    # element_list with: CURRENT TIME.....RUN TIME.....TEAM 1.....TEAM 2.....SCORE.....TIME OF THE GAME.....OVER GOALS....ODD OVER.....BET ON.....Which half
 
 
-    element_list = ["%.2f" % BotTime, current_i, "out of", max_i, Team1, Team2, Score, GameTime, OverGoals, Odd05,
-                    str(Bet_ON), str(Winner)]
+    element_list = [datetime.datetime.now(),"%.2f" % BotTime, current_i, "out of", max_i, Team1, Team2, Score, GameTime, OverGoals, Odd05,
+                    Bet_ON,Half]
     if Debug==True: print("14")
-    print(element_list)
-    gc.collect() #garbage collect- clear memory
+
+    #print(element_list[1:])
+
+#Create and maintain Bet_ON_List - current games that are on bet
+
+    if element_list[11]==True:
+        if len(Bet_ON_List)==0:
+            Bet_ON_List.append(list(element_list))
+            Print_to_List('BET_LIST',"CURRENT TIME.....RUN TIME.....TEAM 1.....TEAM 2.....SCORE.....TIME OF THE GAME.....OVER GOALS....ODD OVER.....BET ON.....Which half", "")
+
+        for sublist in Bet_ON_List:
+            Item_Found=False
+            if sublist[5] == element_list[5]:
+                if Debug2 == True: print("GAME ALREADY EXISTS IN Bet_ON_List")
+                Item_Found=True
+                break
+        if Item_Found==False:
+            Bet_ON_List.append(list(element_list))
+            Print_to_List('BET_ON_LIST',element_list,"")
+            if Debug2 == True: print(" GAME ADDED TO LIST-----", element_list[1:])
+
+
+
+#Verify if a game is winner - first half
+
+    if element_list[7]!="0-0" and (int(element_list[8][:2]) < 47):
+        for sublist in Bet_ON_List:
+            if sublist[5] == element_list[5]:
+                if Debug2 == True: print("Game WIN!-", sublist)
+                Print_to_List('BET_LIST',sublist, ",WIN")
+                Bet_ON_List.remove(sublist)
+                break
+
+# Verify if a game is winner - Second half
+    if element_list[7] != "0-0" and (int(element_list[8][:2]) > 47):
+        for sublist in Bet_ON_List:
+            if sublist[5] == element_list[5] and sublist[12]=="Second":
+                if Debug2 == True: print("Game WIN!-", sublist)
+                Print_to_List('BET_LIST',sublist, ",WIN")
+                Bet_ON_List.remove(sublist)
+                break
+
+# Verify if a game is loss -
+    if element_list[7] == "0-0" and (int(element_list[8][:2]) > 47):
+        for sublist in Bet_ON_List:
+            if sublist[5] == element_list[5] and sublist[12]=="First":
+                if Debug2 == True: print("GAME LOST- ", sublist)
+                Print_to_List('BET_LIST', sublist, ",LOSS")
+                Bet_ON_List.remove(sublist)
+                break
+
+    for sublist in Bet_ON_List:
+        if ((datetime.datetime.now() -sublist[0]).seconds//60)>45:
+            if Debug2 == True: print("GAME LOST- ", sublist)
+            Print_to_List('BET_LIST',sublist, ",LOSS")
+            Bet_ON_List.remove(sublist)
+
+
+
+
+
+
+
+
+
+
 
 # XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -171,12 +259,7 @@ if __name__ == "__main__":
     pyautogui.hotkey('win', 'right')
     # used for debugging purpose
     StartProgramTime = time.time()
-
-
-
-
-
-
+    itemCounter = 0
 
 
 
@@ -188,32 +271,19 @@ if __name__ == "__main__":
             Restart=True
             while Restart==True:
                 if Debug==True: print(15 + 2)
-                itemCounter = 0
-
-
                 try:
-                    # ASSUMPTION: LIST IS VALID Counter is not exceed and Sore lenght is 3 (as a normal football game) and lists haven't changed
-                    while len(originalGames) > itemCounter + 1 and\
-                            len(originalGames[itemCounter].text.split("\n")) >= 3 and\
-                            len(originalGames[itemCounter].text.split("\n")[2]) == 3 and\
-                            originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
+                # ASSUMPTION: LIST IS VALID Counter is not exceed and Sore lenght is 3 (as a normal football game) and lists haven't changed
+                    while len(originalGames) > itemCounter + 1 and \
+                                    len(originalGames[itemCounter].text.split("\n")) >= 3 and \
+                                    len(originalGames[itemCounter].text.split("\n")[2]) == 3: # and\
+                        #originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
                         # MOVE TO CORRECT POSITION:
                         if Debug==True: print("16")
-                        if originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
-                            if Debug==True: print("17")
-                            moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + \
-                                      pyautogui.size()[
-                                          0] / 2 + 100  # int(originalGames[itemCounter].size["width"]/2)
-                        else:
-                            if Debug2==True: print("break on x")
-                            break
-                        if originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
-                            if Debug==True: print("18")
-                            moveToY = originalGames[itemCounter].location_once_scrolled_into_view[
-                                          'y'] + 120  # int(originalGames[itemCounter].size["height"])
-                        else:
-                            if Debug2==True: print("break on y")
-                            break
+                        moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + \
+                                  pyautogui.size()[0] / 2 + 100  # int(originalGames[itemCounter].size["width"]/2)
+                        moveToY = originalGames[itemCounter].location_once_scrolled_into_view[
+                                      'y'] + 120  # int(originalGames[itemCounter].size["height"])
+
 
                         # pyautogui.alert(text=originalGames[itemCounter].size["height"], title='', button='OK')
                         # move cursor to begining of the list
@@ -229,10 +299,12 @@ if __name__ == "__main__":
 
                         itemCounter += 1
                     try:
-                        print("While loop restarted      ", " ItemCounter:", len(originalGames) > itemCounter + 1,
-                          " Score format:",
-                          len(originalGames[itemCounter].text.split("\n")[2]) == 3, " Equal Lists:",
-                          originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
+                        if len(originalGames[itemCounter].text.split("\n")[2]) != 3 or len(originalGames[itemCounter].text.split("\n")[3]) != 5:
+                            print("While loop restarted----------------Reason: SCORE FORMAT MISSING  ")
+                            itemCounter=0
+                            gc.collect()  # garbage collect- clear memory
+                        else:
+                            print("While loop restarted----------------Reason: EQUAL LISTS")
                     except:
                         if Debug2==True: print("While loop restarted      ")
                         pass
@@ -240,7 +312,6 @@ if __name__ == "__main__":
                 except:
                     if Debug2==True: print("While loop encounted some error, loop restarted")
                     pass
-                # clickThroughValidItems(LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "))
 
     else:
         if Debug2==True: print("GameList is null")
@@ -269,34 +340,3 @@ if __name__ == "__main__":
 
 
         # XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-"""
-User Variables:
-betOptions, EndTime, StartTime, MinValOdd, minDelay, MaxDelay
-
-Game properties:
-BetTRUE, Team1, team2, time, score, betOptions, (nameOfOdds, odds)
-
--1. DEFINE selected bet options - get proper string name into variable
-0-load ALL GAMES
-1-first game - Team1, team2, time, score, betOptions, (nameOfOdds, odds)
-2 if score is different from 0:0 OR
-    time is not in interval StartTime, EndTime OR
-    the betOptions (1st half score or 2nd half score) doesn't exist THEN 
-    click on next game 
-3 else read the (nameOfOdds, odds) value for bet option
-4.if odds values are bigger then MinValOdd(1.41) AND
-BetTRUE=FALSE
-then  BetTRUE - output the game + minute + score + odds value into a txt file
-
-if score is different from 0:0 AND
-betOptions is == 2nd half score AND
-odds values are bigger then MinValOdd AND
-betTRUE ==FALSE
-then  BetTRUE - output the game + minute + score + odds value into a txt file
-
--UPDATE GAME LIST (what is the update frequency???)
--TRY TO ADD FINAL SCORE 
-
-ADD ramdom delays in seconds between actions (minDelay and MaxDelay)
-"""
