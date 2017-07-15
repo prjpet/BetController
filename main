@@ -28,19 +28,20 @@ import random, time, pyautogui, gc, datetime
 pyautogui.FAILSAFE = True
 a = random.uniform(minDelay, MaxDelay)  # example of Random time delay
 
-#GLOBAL VARIAVLES
-Bet_ON_List=[]
-
-
-
-
 # XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-def Print_to_List(File,What_to_print, win_or_loose):
-    File1 = File +'_'+ str(datetime.datetime.now().strftime("%d_%m_%Y")) + '.txt'
+def printToList(file, whatToPrint, winOrLose):
+    """
+
+    :param file: string of characters that gives the beginning of the file name
+    :param whatToPrint:
+    :param max_i:
+    """
+
+    File1 = file + '_' + str(datetime.datetime.now().strftime("%d_%m_%Y")) + '.txt'
     with open(File1, 'a') as file:
-        file.write(str(What_to_print))
-        file.write(str(win_or_loose))
+        file.write(str(whatToPrint))
+        file.write(str(winOrLose))
         file.write('\n')
         file.close()
 
@@ -56,19 +57,19 @@ def loadOddData(item1, current_i, max_i):
     :param current_i: 
     :param max_i: 
     """
-    if Debug==True: print("1")
+    if Debug: print("1")
     splitText = item1.text.split("\n")
-    if Debug==True: print("2")
+    if Debug: print("2")
     if len(splitText) >= 4:
-        if Debug==True: print("3")
+        if Debug: print("3")
         Team1 = splitText[0]
         Team2 = splitText[1]
         Score = splitText[2]
         GameTime = splitText[3]
-        #if Debug==True: print(splitText[0],splitText[1],splitText[2],splitText[3])
+        #if Debug: print(splitText[0],splitText[1],splitText[2],splitText[3])
     # only for security of not BREAKING the coce use the following : - ONLY FOR     P.R.J.
     else:
-        if Debug==True: print("4")
+        if Debug: print("4")
         Team1 = "NONE"
         Team2 = "NONE"
         Score = "NONE"
@@ -98,20 +99,20 @@ def loadOddData(item1, current_i, max_i):
 
     # MARKET_GROUP is the full list of odds
     ListOfOdds = LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup")
-    if Debug==True: print("5")
+    if Debug: print("5")
 
     try:
             # Search for First Half Odds
         if StartTime1 < int(GameTime[:2]) < EndTime1 and Score =="0-0":
             for i, item in enumerate(ListOfOdds):
-                #if Debug==True: print(i, ": " + item.text)
-                if Debug==True: print("8.1")
+                #if Debug: print(i, ": " + item.text)
+                if Debug: print("8.1")
                 if ListOfOdds == LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup") and (item.text.find(SEARCH_STRING1) != -1):
                     FHG_list = item.text.split("\n")
-                    if Debug==True: print("9.1")
+                    if Debug: print("9.1")
                     # check if Over value is a float value- error in case that odds are blocked/modified
                     if FHG_list[FHG_list.index(SEARCH_STRING2) + 1] != "Under":
-                        if Debug==True: print("10.1")
+                        if Debug: print("10.1")
                         Odd05_first_half = FHG_list[FHG_list.index(SEARCH_STRING2) + 1]
                         OverGoals = (FHG_list[1])
                         break
@@ -119,14 +120,14 @@ def loadOddData(item1, current_i, max_i):
                 # Search for Second Half Odds
         if StartTime2 < int(GameTime[:2]) < EndTime2 and Score =="0-0":
             for i, item in enumerate(ListOfOdds):
-                # if Debug==True: print(i, ": " + item.text)
-                if Debug==True: print("8.2")
+                # if Debug: print(i, ": " + item.text)
+                if Debug: print("8.2")
                 if ListOfOdds == LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup") and (item.text.find(SEARCH_STRING3) != -1):
                     FHG_list = item.text.split("\n")
-                    if Debug==True: print("9.2")
+                    if Debug: print("9.2")
                     # check if Over value is a float value- error in case that odds are blocked/modified
                     if FHG_list[FHG_list.index(SEARCH_STRING2) + 1] != "Under":
-                        if Debug==True: print("10.2")
+                        if Debug: print("10.2")
                         Odd05_second_half = FHG_list[FHG_list.index(SEARCH_STRING2) + 1]
                         OverGoals = (FHG_list[1])
                         break
@@ -136,12 +137,12 @@ def loadOddData(item1, current_i, max_i):
 
     # Validate for bet_on for FIRST HALF
     if Score == "0-0" and StartTime1 < int(GameTime[:2]) < EndTime1 and OverGoals == " 0.5" and MinValOdd1 < Odd05_first_half:
-        if Debug==True: print("11")
+        if Debug: print("11")
         Bet_ON = True
         Half="First"
     # Validate for bet_on for SECOND HALF
     if Score == "0-0" and StartTime2 < int(GameTime[:2]) < EndTime2 and OverGoals == " 0.5" and MinValOdd2 < Odd05_second_half:
-        if Debug==True: print("12")
+        if Debug: print("12")
         Bet_ON = True
         Half="Second"
 
@@ -151,13 +152,13 @@ def loadOddData(item1, current_i, max_i):
         # elif Score != "0-0" and Bet_ON==True:
         # Winner = True
     BotTime = ((time.time() - StartProgramTime) / 60)
-    if Debug==True: print("13")
+    if Debug: print("13")
     # element_list with: CURRENT TIME.....RUN TIME.....TEAM 1.....TEAM 2.....SCORE.....TIME OF THE GAME.....OVER GOALS....ODD OVER.....BET ON.....Which half
 
 
     element_list = [datetime.datetime.now(),"%.2f" % BotTime, current_i, "out of", max_i, Team1, Team2, Score, GameTime, OverGoals, Odd05,
                     Bet_ON,Half]
-    if Debug==True: print("14")
+    if Debug: print("14")
 
     #print(element_list[1:])
 
@@ -166,7 +167,7 @@ def loadOddData(item1, current_i, max_i):
     if element_list[11]==True:
         if len(Bet_ON_List)==0:
             Bet_ON_List.append(list(element_list))
-            Print_to_List('BET_LIST',"CURRENT TIME,RUN TIME,TEAM 1,TEAM 2,SCORE,TIME OF THE GAME,OVER GOALS,ODD OVER,BET ON,Which half", "")
+            printToList('BET_LIST', "CURRENT TIME,RUN TIME,TEAM 1,TEAM 2,SCORE,TIME OF THE GAME,OVER GOALS,ODD OVER,BET ON,Which half", "")
 
         for sublist in Bet_ON_List:
             Item_Found=False
@@ -176,7 +177,7 @@ def loadOddData(item1, current_i, max_i):
                 break
         if Item_Found==False:
             Bet_ON_List.append(list(element_list))
-            Print_to_List('BET_ON_LIST',element_list,"")
+            printToList('BET_ON_LIST', element_list, "")
             if Debug2 == True: print(" GAME ADDED TO LIST-----", element_list[1:])
 
 
@@ -187,7 +188,7 @@ def loadOddData(item1, current_i, max_i):
         for sublist in Bet_ON_List:
             if sublist[5] == element_list[5]:
                 if Debug2 == True: print("Game WIN!-", sublist)
-                Print_to_List('BET_LIST',sublist, ",WIN")
+                printToList('BET_LIST', sublist, ",WIN")
                 Bet_ON_List.remove(sublist)
                 break
 
@@ -196,7 +197,7 @@ def loadOddData(item1, current_i, max_i):
         for sublist in Bet_ON_List:
             if sublist[5] == element_list[5] and sublist[12]=="Second":
                 if Debug2 == True: print("Game WIN!-", sublist)
-                Print_to_List('BET_LIST',sublist, ",WIN")
+                printToList('BET_LIST', sublist, ",WIN")
                 Bet_ON_List.remove(sublist)
                 break
 
@@ -205,14 +206,14 @@ def loadOddData(item1, current_i, max_i):
         for sublist in Bet_ON_List:
             if sublist[5] == element_list[5] and sublist[12]=="First":
                 if Debug2 == True: print("GAME LOST- ", sublist)
-                Print_to_List('BET_LIST', sublist, ",LOSS")
+                printToList('BET_LIST', sublist, ",LOSS")
                 Bet_ON_List.remove(sublist)
                 break
 
     for sublist in Bet_ON_List:
         if ((datetime.datetime.now() -sublist[0]).seconds//60)>45:
             if Debug2 == True: print("GAME LOST- ", sublist)
-            Print_to_List('BET_LIST',sublist, ",LOSS")
+            printToList('BET_LIST', sublist, ",LOSS")
             Bet_ON_List.remove(sublist)
 
 
@@ -234,17 +235,17 @@ def GatherOddData(item1, current_i, max_i):
     :param current_i: 
     :param max_i: 
     """
-    if Debug==True: print("1")
+    if Debug: print("1")
     splitText = item1.text.split("\n")
-    if Debug==True: print("2")
+    if Debug: print("2")
     if len(splitText) >= 4:
-        if Debug==True: print("3")
+        if Debug: print("3")
         Team1 = splitText[0]
         Team2 = splitText[1]
         Score = splitText[2]
         GameTime = splitText[3]
     else:
-        if Debug==True: print("4")
+        if Debug: print("4")
         Team1 = "NONE"
         Team2 = "NONE"
         Score = "NONE"
@@ -271,20 +272,20 @@ def GatherOddData(item1, current_i, max_i):
 
     # MARKET_GROUP is the full list of odds
     ListOfOdds = LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup")
-    if Debug==True: print("5")
+    if Debug: print("5")
 
     try:
             # Search for First Half Odds
         if 0 < int(GameTime[:2]) and Score =="0-0":
             for i, item in enumerate(ListOfOdds):
-                #if Debug==True: print(i, ": " + item.text)
-                if Debug==True: print("8.1")
+                #if Debug: print(i, ": " + item.text)
+                if Debug: print("8.1")
                 if ListOfOdds == LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup") and (item.text.find(SEARCH_STRING1) != -1):
                     FHG_list = item.text.split("\n")
-                    if Debug==True: print("9.1")
+                    if Debug: print("9.1")
                     # check if Over value is a float value- error in case that odds are blocked/modified
                     if FHG_list[FHG_list.index(SEARCH_STRING2) + 1] != "Under":
-                        if Debug==True: print("10.1")
+                        if Debug: print("10.1")
                         Odd05_first_half = FHG_list[FHG_list.index(SEARCH_STRING2) + 1]
                         OverGoals = (FHG_list[1])
                         break
@@ -292,14 +293,14 @@ def GatherOddData(item1, current_i, max_i):
                 # Search for Second Half Odds
         if 45 < int(GameTime[:2])  and Score =="0-0":
             for i, item in enumerate(ListOfOdds):
-                # if Debug==True: print(i, ": " + item.text)
-                if Debug==True: print("8.2")
+                # if Debug: print(i, ": " + item.text)
+                if Debug: print("8.2")
                 if ListOfOdds == LoadBrowser.locateElementsByClassAndLoad("gl-MarketGroup") and (item.text.find(SEARCH_STRING3) != -1):
                     FHG_list = item.text.split("\n")
-                    if Debug==True: print("9.2")
+                    if Debug: print("9.2")
                     # check if Over value is a float value- error in case that odds are blocked/modified
                     if FHG_list[FHG_list.index(SEARCH_STRING2) + 1] != "Under":
-                        if Debug==True: print("10.2")
+                        if Debug: print("10.2")
                         Odd05_second_half = FHG_list[FHG_list.index(SEARCH_STRING2) + 1]
                         OverGoals = (FHG_list[1])
                         break
@@ -309,11 +310,11 @@ def GatherOddData(item1, current_i, max_i):
 
     # Validate for bet_on for FIRST HALF
     if Score == "0-0" and 0 < int(GameTime[:2]) < 45 :
-        if Debug==True: print("11")
+        if Debug: print("11")
         Half="First"
     # Validate for bet_on for SECOND HALF
     if Score == "0-0" and 45 < int(GameTime[:2]):
-        if Debug==True: print("12")
+        if Debug: print("12")
         Half="Second"
 
     if Odd05_second_half == "NONE":Odd05 = Odd05_first_half
@@ -321,17 +322,17 @@ def GatherOddData(item1, current_i, max_i):
 
 
     BotTime = ((time.time() - StartProgramTime) / 60)
-    if Debug==True: print("13")
+    if Debug: print("13")
     # element_list with: CURRENT TIME.....RUN TIME.....TEAM 1.....TEAM 2.....SCORE.....TIME OF THE GAME.....OVER GOALS....ODD OVER.....BET ON.....Which half
 
 
     element_list = [datetime.datetime.now(),"%.2f" % BotTime, current_i, "out of", max_i, Team1, Team2, Score, GameTime, OverGoals, Odd05,
                     Bet_ON,Half]
-    if Debug==True: print("14")
+    if Debug: print("14")
 
 
     if element_list[7]=="0-0" and element_list[10]!="NONE":
-        Print_to_List('GATHER_ON_LIST', element_list, "")
+        printToList('GATHER_ON_LIST', element_list, "")
         print(element_list[1:])
 
 # XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -367,71 +368,53 @@ if __name__ == "__main__":
     # timeList = LoadBrowser.locateElementsByClassAndLoad("ipn-ScoreDisplayStandard_Timer")
     # scoreList= LoadBrowser.locateElementsByClassAndLoad("ipn-ScoreDisplayStandard_Score")
 
-    # pyautogui.hotkey('alt', 'space')
-    # pyautogui.hotkey('x')
     pyautogui.hotkey('win', 'right')
     # used for debugging purpose
     StartProgramTime = time.time()
-    itemCounter = 0
+
 
 
 
     while True:
         originalGames = LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton ")
         if originalGames != "":
-            if Debug==True: print(22)
-            global Restart
-            Restart=True
-            while Restart==True:
-                if Debug==True: print(15 + 2)
-                try:
+            print("While loop restarted----------------Reason: SCORE FORMAT MISSING  ")
+            itemCounter = 0
+            gc.collect() # garbage collect- clear memory
+            if Debug: print(15 + 2)
+            try:
                 # ASSUMPTION: LIST IS VALID Counter is not exceed and Sore lenght is 3 (as a normal football game) and lists haven't changed
-                    while len(originalGames) > itemCounter + 1 and \
-                                    len(originalGames[itemCounter].text.split("\n")) >= 3 and \
-                                    len(originalGames[itemCounter].text.split("\n")[2]) == 3: # and\
-                        #originalGames == LoadBrowser.locateElementsByClassAndLoad("ipn-FixtureButton "):
-                        # MOVE TO CORRECT POSITION:
-                        if Debug==True: print("16")
-                        moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + \
-                                  pyautogui.size()[0] / 2 + 100  # int(originalGames[itemCounter].size["width"]/2)
-                        moveToY = originalGames[itemCounter].location_once_scrolled_into_view[
-                                      'y'] + 120  # int(originalGames[itemCounter].size["height"])
+                while len(originalGames[itemCounter].text.split("\n")) >= 3 and \
+                      len(originalGames) > itemCounter + 1 and len(originalGames[itemCounter].text.split("\n")[2]) == 3 and \
+                      len(originalGames[itemCounter].text.split("\n")[3]) == 5:
+
+                    # MOVE TO CORRECT POSITION:
+                    if Debug: print("16")
+                    moveToX = originalGames[itemCounter].location_once_scrolled_into_view['x'] + pyautogui.size()[0] / 2 + 100
+                    moveToY = originalGames[itemCounter].location_once_scrolled_into_view['y'] + 120
 
 
-                        # pyautogui.alert(text=originalGames[itemCounter].size["height"], title='', button='OK')
-                        # move cursor to begining of the list
-                        if itemCounter == 0: pyautogui.moveTo(moveToX, moveToY, duration=0.5)
+                    # move cursor to begining of the list
+                    if itemCounter == 0: pyautogui.moveTo(moveToX, moveToY, duration=0.5)
 
-                        # CLICK:
-                        pyautogui.click(button='left')
-                        if Debug==True: print("19")
+                    # CLICK:
+                    pyautogui.click(button='left')
+                    if Debug: print("19")
+                    # LOAD DATA Option BET_ON
+                    if Bet_Option==1: loadOddData(originalGames[itemCounter], itemCounter, len(originalGames))
+                    # LOAD DATA Option Gather_Data
+                    else:  GatherOddData(originalGames[itemCounter], itemCounter, len(originalGames))
+                    if Debug: print("20.1")
 
-                        # LOAD DATA Option BET_ON
-                        if Bet_Option==1: loadOddData(originalGames[itemCounter], itemCounter, len(originalGames))
-                        if Debug==True: print("20.1")
+                    itemCounter += 1
 
-                        # LOAD DATA Option Gather_Data
-                        if Bet_Option==2: GatherOddData(originalGames[itemCounter], itemCounter, len(originalGames))
-                        if Debug==True: print("20.1")
+            except Exception as e:
+                if Debug2==True: print("While loop encounted some error, loop restarted", e)
+                pass
 
-                        itemCounter += 1
-                    try:
-                        if len(originalGames[itemCounter].text.split("\n")[2]) != 3 or len(originalGames[itemCounter].text.split("\n")[3]) != 5:
-                            print("While loop restarted----------------Reason: SCORE FORMAT MISSING  ")
-                            itemCounter=0
-                            gc.collect()  # garbage collect- clear memory
-                        else:
-                            print("While loop restarted----------------Reason: EQUAL LISTS")
-                    except:
-                        if Debug2==True: print("While loop restarted      ")
-                        pass
-                    break
-                except:
-                    if Debug2==True: print("While loop encounted some error, loop restarted")
-                    pass
-
-    else:
-        if Debug2==True: print("GameList is null")
+        #corrected indentation here - PP 15/07/2017
+        else:
+            if Debug2==True: print("GameList is null")
 
 
 
