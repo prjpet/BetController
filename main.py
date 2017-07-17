@@ -50,9 +50,7 @@ if __name__ == "__main__":
     GameListNavigator = GameListNavigator(LoadBrowser, True, StartTime1, EndTime1, MinValOdd1,  StartTime2, EndTime2, \
                                           MinValOdd2, startProgramTime)
 
-    while True:
-
-        GameListNavigator.getNextGameData()
+    while True: GameListNavigator.getNextGameData()
 
 
 
